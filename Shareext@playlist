@@ -258,6 +258,24 @@ http://fastopen.live:8080/MLS003/qZj4zbPNDn/112197
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112196
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",HK: Sports Prime FHD 
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112195
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", UK: Hub Premier 1 FHD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112231
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", UK: Hub Premier 2 FHD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112229
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", UK: Hub Premier 3 FHD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112228
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", UK: Hub Premier 4 FHD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112227
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", UK: Hub Premier 5 FHD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112226
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", UK: TNT Sports 1 HD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/17196
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", UK: TNT Sports 2 HD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/17194
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", UK: TNT Sports 3 HD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/17192
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", UK: TNT Sports 4 HD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/17190
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="ShareExt@Relax",ASTRO ARENA (php)
 http://51.89.166.17:3002/index.php?id=Arena
@@ -2745,52 +2763,47 @@ http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/9109
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 1 HD" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS",DE: EUROSPORT 1 HD
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77010
-#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 2 HD" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS",DE: EUROSPORT 2 HD
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77012
-#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT1+ HD" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", SPORT1+ HD
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77014
-#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT DIGITAL HD" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS",DE: SPORT DIGITAL HD
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77015
-#EXTINF:-1 tvg-id="" tvg-name="DE: MOTORVISION TV" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS",DE: MOTORVISION TV
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77016
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT NEWS HD" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS",DE: SKY SPORT NEWS HD
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77019
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT GOLF HD" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS",DE: SKY SPORT GOLF HD
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77021
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT F1 HD" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS",DE: SKY SPORT F1 HD
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77023
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT TENNIS HD" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS",SKY SPORT TENNIS HD
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77025
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT MIX HD" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS",DE: SKY SPORT MIX HD
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77027
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT PREMIER LEAGUE HD" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS",SKY SPORT PREMIER LEAGUE HD
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77029
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 1 HD" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS",DE: SKY SPORT 1 HD
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77034
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 2 HD" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS",DE: SKY SPORT 2 HD
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77036
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 3 HD" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS",DE: SKY SPORT 3 HD
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77038
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 4 HD" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS",DE: SKY SPORT 4 HD
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77040
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 5 HD" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS",DE: SKY SPORT 5 HD
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77042
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 6 HD" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS",DE: SKY SPORT 6 HD
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77043
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA HD" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", SKY SPORT BUNDESLIGA HD
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77053
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 1 HD" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", SKY SPORT BUNDESLIGA 1 HD
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77055
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 2 HD" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", SKY SPORT BUNDESLIGA 2 HD
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77057
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 3 HD" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS",DE: SKY SPORT BUNDESLIGA 3 HD
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77058
-#EXTINF:-1 tvg-id="" tvg-name="DE: FC BAYERN TV HD" tvg-logo="https://www.magentasport.de/images/editorial/Logos/Bewerb-Logos/FCBTVLive-Logo-3C-1.png?time=1522064367552&fm=webp&w=220" group-title="SHAREEXT@ GERMANIA || SPORTS", FC BAYERN TV HD
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77075
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 FHD" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", DAZN 1 FHD
-http://update.miicrosoft.es:80/Sorin_Nicolae/yZOU1uaX0DZAEJXL3dP1FSonb186ss/77077
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", DAZN 1 Bar HD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/18392
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", DAZN 2 Bar HD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/16045
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", SkySport Bundesliga1 FHD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/4387
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", SkySport Bundesliga 2 FHD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/4386
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", SkySport Bundesliga 3 FHD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/4385
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", SkySport 1 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/73835
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", SkySport 2 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/73836
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", SkySport 3 FHD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/4375
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", SkySport 4 FHD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/4374
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", SkySport 5 FHD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/4373
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", SkySport 6 FHD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/4372
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", SkySport F1 FHD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/96730
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", SkySport Tennis FHD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/107886
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", SkySport Top Event FHD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/107885
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", SkySport Premier League FHD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/107884
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", SkySport Mix FHD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/107883
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", SkySport Golf FHD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/107882
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", SkySport Austria FHD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/5584
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", Eurosport 1 FHD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/9345
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ GERMANIA || SPORTS", Eurosport 2 FHD 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/9344
 
 
 
