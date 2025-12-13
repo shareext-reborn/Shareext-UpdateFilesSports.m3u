@@ -258,6 +258,21 @@ http://fastopen.live:8080/MLS003/qZj4zbPNDn/112197
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112196
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",HK: Sports Prime FHD 
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112195
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ShareExt@Relax", MonoMax 1 (TH) 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130732
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ShareExt@Relax", MonoMax 1 [EN] 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130731
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ShareExt@Relax", MonoMax 2 (TH) 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130724
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ShareExt@Relax", MonoMax 2 [EN]
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130723
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",  Hub Sports 1 (SGP)
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1110667&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",  Hub Sports 2 (SGP)
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1110666&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",  Hub Sports 3 (SGP)
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1110665&extension=ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", UK: Hub Premier 1 FHD 
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112231
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax", UK: Hub Premier 2 FHD 
