@@ -1371,6 +1371,23 @@ http://streamingtv.vip:80//live/PqaWkKz2/XtxFA3Jme/376384.ts
 
 
 
+#EXTINF:-1  tvg-name="Fox Sports 501 FHD" tvg-id="FoxCricket.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/59gCbVd.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",Fox Sports 501 FHD
+https://a1xs.vip/700001
+#EXTINF:-1  tvg-name="Fox Sports 502 FHD" tvg-id="FoxLeague.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/idKGREY.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",Fox Sports 502 FHD
+https://a1xs.vip/700002
+#EXTINF:-1  tvg-name="Fox Sports 503 FHD" tvg-id="FoxSports503.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/5PUsSnn.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",Fox Sports 503 FHD
+https://a1xs.vip/700003
+#EXTINF:-1  tvg-name="Fox Sports 504 FHD" tvg-id="FoxFooty.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/aEoU7gf.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",Fox Sports 504 FHD
+https://a1xs.vip/700004
+#EXTINF:-1  tvg-name="Fox Sports 505 FHD" tvg-id="FoxSports505.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/angJkah.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",Fox Sports 505 FHD
+https://a1xs.vip/700005
+#EXTINF:-1  tvg-name="Fox Sports 506 FHD" tvg-id="FoxSports506.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/eA1hiR0.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",Fox Sports 506 FHD
+https://a1xs.vip/700006
+#EXTINF:-1  tvg-name="Fox Sports 507 FHD" tvg-id="FoxSportsMore.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/kGm7Ts1.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",Fox Sports 507 FHD
+https://a1xs.vip/700007
+#EXTINF:-1  tvg-id="Astro.Premier.League.3.my" tvg-name="Astro Grandstand" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/0vxakz2.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",Astro Grandstand
+https://a1xs.vip/1100032
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2YspMjBW/shareext-logo-australia.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS", SkySport 1 HD
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/102403
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2YspMjBW/shareext-logo-australia.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS", SKySport 2 HD 
