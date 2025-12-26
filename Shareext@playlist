@@ -17,14 +17,43 @@ http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/117460
 http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/117461
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",Now Premier League 6 [Events Only]
 http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/117462
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",Now Premier League 7 [Events Only]
-http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/117463
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",Now Premier League 8 [Events Only]
-http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/117464
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",AFN Sports
 http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/118468
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="ShareExt@Relax",AFN Sports 2
 http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/118469
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",HK: NOW.SPORTS 1
+http://vocotv.pro:80/robins/robins/715566
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",HK: NOW.SPORTS 2
+http://vocotv.pro:80/robins/robins/715565
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",HK: NOW.SPORTS 3
+http://vocotv.pro:80/robins/robins/715564
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",HK: NOW.SPORTS 4
+http://vocotv.pro:80/robins/robins/715563
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",HK: NOW.SPORTS 5
+http://vocotv.pro:80/robins/robins/715562
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",HK: NOW.SPORTS 6
+http://vocotv.pro:80/robins/robins/715561
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",HK: NOW.SPORTS 7
+http://vocotv.pro:80/robins/robins/715560
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",HK: NOW.SPORTS PRIME
+http://vocotv.pro:80/robins/robins/715559
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",HK: NOW.SPORTS 4K(616)
+http://vocotv.pro:80/robins/robins/715558
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",HK: NOW.SPORTS 4K(617)
+http://vocotv.pro:80/robins/robins/715557
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", TH: TRUE Premiere Football 1 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302733.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", TH: TRUE Premiere Football 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302734.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", TH: TRUE Sport 3 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302735.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", TH: TRUE Sport 4 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302736.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", TH: Thairath TV 32 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302732.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", TH: PPTV HD 36
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302726.ts
 
 #EXTINF:-1  tvg-id="576059" group-title="ShareExt@Relax" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250", SEA Games CH01_ott.navigator
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
