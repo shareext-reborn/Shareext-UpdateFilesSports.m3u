@@ -2252,7 +2252,7 @@ http://vocotv.pro:80/robins/robins/793789
 http://vocotv.pro:80/robins/robins/793788
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS",Kujtesa Sport 3 HD 
 http://vocotv.pro:80/robins/robins/793787
-#EXTINF:-1,Kujtesa Sport 4 HD 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", Kujtesa Sport 4 HD 
 http://vocotv.pro:80/robins/robins/793786
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS",K Sport 1 HD 
 http://vocotv.pro:80/robins/robins/793785
