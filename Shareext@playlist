@@ -28,12 +28,20 @@ http://96.44.160.246:9999/smt.php?id=eltasport3_twn
 http://96.44.160.246:9999/smt.php?id=dazn1_twn
 #EXTINF:-1 tvg-id="dazn2sp.mv" tvg-name="DAZN 2" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="ShareExt@Relax",DAZN ELEVEN 2 (twn)
 http://96.44.160.246:9999/smt.php?id=dazn2_twn
-#EXTINF:-1 tvg-id="dazn1.mv" tvg-name="DAZN 1" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="ShareExt@Relax",DAZN 1 (twn)
-http://96.44.160.246:9999/smt.php?id=dazn1_twn
-#EXTINF:-1 tvg-id="dazn2sp.mv" tvg-name="DAZN 2" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="ShareExt@Relax",DAZN 2 (twn)
-http://96.44.160.246:9999/smt.php?id=dazn2_twn
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", WWE (php)
 http://96.44.160.246:9999/smt.php?id=Wwe
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", SPOTV 1 (php)
+http://96.44.160.246:9999/smt.php?id=go_spotv 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", SPOTV 2 (php)
+http://96.44.160.246:9999/smt.php?id=go_spotv2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ShareExt@Relax", Tnt Sports 1 (php)
+http://96.44.160.246:9999/smt.php?id=6fac0aaead 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ShareExt@Relax", TNT Sports 2 (php)
+http://96.44.160.246:9999/smt.php?id=d9a76a79cc 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ShareExt@Relax", TNT Sports 3 (php)
+http://96.44.160.246:9999/smt.php?id=5fea4d73db 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ShareExt@Relax", TNT Sports 4 (php)
+http://96.44.160.246:9999/smt.php?id=tntsport4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax", Astro Beinsports 1(php)
 http://96.44.160.246:9999/smt.php?id=Astrobein1
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax", Astro Beinsports 2(php)
