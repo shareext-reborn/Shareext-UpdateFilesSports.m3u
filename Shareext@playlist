@@ -18,11 +18,6 @@ http://202.169.224.202:8800/udp/239.9.1.10:1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions3.jpg" group-title="ShareExt@Relax",CHAMPIONSTV 3 (IDN) 
 http://202.169.224.202:8800/udp/239.9.1.11:1234
 
-#EXTINF:-1 tvg-id="VOLITV.ID" tvg-name="VOLI TV" tvg-logo="https://mimipipi22.github.io/logo/sports/volitv.jpg" group-title="ShareExt@Relax",VOLI.TV (IDN)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tv.casindo.org/hls/2/2.m3u8
-#EXTINF:-1 tvg-id="tvri.sport.id" tvg-name="tvri sport" tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="ShareExt@Relax",TVRI SPORT (IDN)
-http://tv.casindo.org/hls/49/49.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/motorvision.jpg" group-title="ShareExt@Relax",MOTORVISION+ (IDN)
@@ -388,25 +383,6 @@ https://popmi.my.id/tes.m3u8?id=205
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="ShareExt@Relax", MOJI (V)
 https://popmi.my.id/tes.m3u8?id=206
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",INDOSIAR HD (Play.1)
-http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",SCTV HD (Play.1)
-http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",TVRI Sport HD (Play.1)
-http://103.170.33.11:9981/stream/channelid/768175194?profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",TRANS TV HD (Play.1)
-http://103.170.33.11:9981/stream/channelid/479667605?profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",TRANS 7 HD (Play.1)
-http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",MOJI HD (Play.1)
-http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",MENTARITV HD (Play.1)
-http://103.170.33.11:9981/stream/channelid/517879230?profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",ANTV HD (Play.1)
-http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@Relax",TVONE HD (Play.1)
-http://103.170.33.11:9981/stream/channelid/1752496345?profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",  Hub Sports 1 (SGP)
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1110667&extension=ts
