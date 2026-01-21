@@ -18,79 +18,6 @@ http://202.169.224.202:8800/udp/239.9.1.10:1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions3.jpg" group-title="ShareExt@Relax",CHAMPIONSTV 3 (IDN) 
 http://202.169.224.202:8800/udp/239.9.1.11:1234
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="ShareExt@Relax",TW: ELTA SPORT 1 (php)
-https://live.catvod.com/live.php?id=eltasport1_twn
-#EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" group-title="ShareExt@Relax",TW: ELTA SPORT 2 (php)
-https://live.catvod.com/live.php?id=eltasport2_twn 
-#EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" group-title="ShareExt@Relax",TW: ELTA SPORT 3 (php)
-https://live.catvod.com/live.php?id=eltasport3_twn 
-#EXTINF:-1 tvg-id="dazn1.mv" tvg-name="DAZN 1" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="ShareExt@Relax",DAZN ELEVEN 1 (twn)
-https://live.catvod.com/live.php?id=dazn1_twn
-#EXTINF:-1 tvg-id="dazn2sp.mv" tvg-name="DAZN 2" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="ShareExt@Relax",DAZN ELEVEN 2 (twn)
-https://live.catvod.com/live.php?id=dazn2_twn
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", WWE (php)
-https://live.catvod.com/live.php?id=Wwe
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", SPOTV 1 (php)
-https://live.catvod.com/live.php?id=go_spotv 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", SPOTV 2 (php)
-https://live.catvod.com/live.php?id=go_spotv2
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ShareExt@Relax", Tnt Sports 1 (php)
-https://live.catvod.com/live.php?id=6fac0aaead 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ShareExt@Relax", TNT Sports 2 (php)
-https://live.catvod.com/live.php?id=d9a76a79cc 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ShareExt@Relax", TNT Sports 3 (php)
-https://live.catvod.com/live.php?id=5fea4d73db 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ShareExt@Relax", TNT Sports 4 (php)
-https://live.catvod.com/live.php?id=tntsport4
-#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax", Astro Beinsports 1(php)
-https://live.catvod.com/live.php?id=Astrobein1
-#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax", Astro Beinsports 2(php)
-https://live.catvod.com/live.php?id=Astrobein2
-#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="ShareExt@Relax", Astro Beinsports 3(php)
-https://live.catvod.com/live.php?id=Astrobein3
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",Astro W-Sports (php)
-https://live.catvod.com/live.php?id=go_assp5
-#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-f1-uk.png" group-title="ShareExt@Relax",SKYSPORTS F1(php)
-https://live.catvod.com/live.php?id=tiankongf1
-#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-cricket-uk.png" group-title="ShareExt@Relax",SKYSPORTS CRICKET (php)
-https://live.catvod.com/live.php?id=tiankongcricket
-#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-premier-league-uk.png" group-title="ShareExt@Relax",SKYSPORTS EPL (php)
-https://live.catvod.com/live.php?id=tiankongepl
-#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-golf-uk.png" group-title="ShareExt@Relax",SKYSPORTS GOLF (php)
-https://live.catvod.com/live.php?id=tiankonggolf
-#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-main-event-uk.png" group-title="ShareExt@Relax",SKYSPORTS MAIN EVENT(php)
-https://live.catvod.com/live.php?id=tiankongmain
-#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-racing-uk.png" group-title="ShareExt@Relax",SKYSPORTS RACING (php)
-https://live.catvod.com/live.php?id=tiankongracing
-#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-mix-uk.png" group-title="ShareExt@Relax",SKYSPORTS MIX (php)
-https://live.catvod.com/live.php?id=tiankongmix
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="ShareExt@Relax",MY: ASTRO ARENA (php)
-https://live.catvod.com/live.php?id=Arena
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="ShareExt@Relax",MY: ASTRO ARENA 2 (php)
-https://live.catvod.com/live.php?id=Arena2
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="ShareExt@Relax",MY: BOLA ARENA 1 (php)
-https://live.catvod.com/live.php?id=Bolaarena1
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="ShareExt@Relax",MY: BOLA ARENA 2 (php)
-https://live.catvod.com/live.php?id=Bolaarena2
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="ShareExt@Relax",MY: ASTRO PREMIER LEAGUE (php)
-https://live.catvod.com/live.php?id=Assp1
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="ShareExt@Relax",MY: ASTRO PREMIER LEAGUE 2 (php)
-https://live.catvod.com/live.php?id=Assp2
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="ShareExt@Relax",MY: ASTRO GRANDSTAND (php)
-https://live.catvod.com/live.php?id=Assp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="ShareExt@Relax",MY: ASTRO FOOTBALL (php)
-https://live.catvod.com/live.php?id=Assp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" group-title="ShareExt@Relax",MY: ASTRO SPORTSPLUS (php)
-https://live.catvod.com/live.php?id=go_sportsplus
-#EXTINF:-1 tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-title="ShareExt@Relax",MY: ASTRO BADMINTON 1 (php)
-https://live.catvod.com/live.php?id=go_badminton1
-#EXTINF:-1 tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-title="ShareExt@Relax",MY: ASTRO BADMINTON 2 (php)
-https://live.catvod.com/live.php?id=go_badminton2
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="ShareExt@Relax",MY: ASTRO CRICKET (php)
-https://live.catvod.com/live.php?id=Acricket
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="ShareExt@Relax",MY: ASTRO GOLF (php)
-https://live.catvod.com/live.php?id=Agolf
-
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/motorvision.jpg" group-title="ShareExt@Relax",MOTORVISION+ (IDN)
@@ -211,23 +138,6 @@ http://120.238.94.10:9901/tsfile/live/1022_1.m3u8
 http://69.30.246.194/live/cctv5p.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="ShareExt@Relax",CCTV 16
 http://69.30.246.194/live/cctv16.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",Now Premier League 1 [Events Only]
-http://lunar.pm:8080/Mrdon/4782314540/117457
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",Now Premier League 2 [Events Only]
-http://lunar.pm:8080/Mrdon/4782314540/117458
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",Now Premier League 3 [Events Only]
-http://lunar.pm:8080/Mrdon/4782314540/117459
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",Now Premier League 4 [Events Only]
-http://lunar.pm:8080/Mrdon/4782314540/117460
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",Now Premier League 5 [Events Only]
-http://lunar.pm:8080/Mrdon/4782314540/117461
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",Now Premier League 6 [Events Only]
-http://lunar.pm:8080/Mrdon/4782314540/117462
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",Now Premier League 7 [Events Only]
-http://lunar.pm:8080/Mrdon/4782314540/117463
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax",Now Premier League 8 [Events Only]
-http://lunar.pm:8080/Mrdon/4782314540/117464
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",Hub Premier  EPL 01
 http://lunar.pm:8080/Mrdon/4782314540/110288
