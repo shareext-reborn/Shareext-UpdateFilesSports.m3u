@@ -5,6 +5,17 @@ https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@_SHAREEXT@!!!!
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="ShareExt@Relax",TW: ELTA SPORT 1 (php)
+http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport1_twn 
+#EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" group-title="ShareExt@Relax",TW: ELTA SPORT 2 (php)
+http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport2_twn 
+#EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" group-title="ShareExt@Relax",TW: ELTA SPORT 3 (php)
+http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport3_twn
+#EXTINF:-1 tvg-id="dazn1.mv" tvg-name="DAZN 1" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="ShareExt@Relax",DAZN ELEVEN 1 (twn)
+http://ma-yi.k.vu/mayi/697456c165396.php?id=dazn1_twn
+#EXTINF:-1 tvg-id="dazn2sp.mv" tvg-name="DAZN 2" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="ShareExt@Relax",DAZN ELEVEN 2 (twn)
+http://ma-yi.k.vu/mayi/697456c165396.php?id=dazn2_twn
+
 #EXTINF:-1 tvg-id="Champions.TV. tvg-logo="https://mimipipi22.github.io/logo/sports/champions1.jpg" group-title="ShareExt@Relax",CHAMPIONS TV 1 (achtv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2131,16 +2142,19 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (W
 
 
 
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS",TW: ELTA SPORT 1 (php)
-http://96.44.160.246:9999/smt.php?id=eltasport1_twn 
+http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport1_twn 
 #EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS",TW: ELTA SPORT 2 (php)
-http://96.44.160.246:9999/smt.php?id=eltasport2_twn 
+http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport2_twn 
 #EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS",TW: ELTA SPORT 3 (php)
-http://96.44.160.246:9999/smt.php?id=eltasport3_twn 
+http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport3_twn
 #EXTINF:-1 tvg-id="dazn1.mv" tvg-name="DAZN 1" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS",DAZN ELEVEN 1 (twn)
-http://96.44.160.246:9999/smt.php?id=dazn1_twn
+http://ma-yi.k.vu/mayi/697456c165396.php?id=dazn1_twn
 #EXTINF:-1 tvg-id="dazn2sp.mv" tvg-name="DAZN 2" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS",DAZN ELEVEN 2 (twn)
-http://96.44.160.246:9999/smt.php?id=dazn2_twn
+http://ma-yi.k.vu/mayi/697456c165396.php?id=dazn2_twn
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS",NOW HK PREMIER SPORTS 01
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/164320.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS",NOW HK PREMIER SPORTS 02
