@@ -5,7 +5,7 @@ https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@_SHAREEXT@!!!!
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 
-#EXTINF:-1 tvg-id="Champions.TV. tvg-logo="https://mimipipi22.github.io/lo1.id" tvg-name=""go/sports/champions1.jpg" group-title="ShareExt@Relax",CHAMPIONS TV 1 (achtv)
+#EXTINF:-1 tvg-id="Champions.TV. tvg-logo="https://mimipipi22.github.io/logo/sports/champions1.jpg" group-title="ShareExt@Relax",CHAMPIONS TV 1 (achtv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -20,7 +20,7 @@ https://archertv.my.id/atraksi/vidx.mpd?id=6685&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=6686&type=drm
 https://archertv.my.id/atraksi/vidx.mpd?id=6686&type=dash
 
-#EXTINF:-1 tvg-id="Champions.TV. tvg-logo="https://mimipipi22.github.io/lo1.id" tvg-name=""go/sports/champions1.jpg" group-title="ShareExt@Relax",CHAMPIONS TV 1 (mmd)
+#EXTINF:-1 tvg-id="Champions.TV. tvg-logo="https://mimipipi22.github.io/logo/sports/champions1.jpg" group-title="ShareExt@Relax",CHAMPIONS TV 1 (mmd)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
