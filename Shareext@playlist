@@ -15,6 +15,20 @@ http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport3_twn
 http://ma-yi.k.vu/mayi/697456c165396.php?id=dazn1_twn
 #EXTINF:-1 tvg-id="dazn2sp.mv" tvg-name="DAZN 2" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="ShareExt@Relax",DAZN ELEVEN 2 (twn)
 http://ma-yi.k.vu/mayi/697456c165396.php?id=dazn2_twn
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="ShareExt@Relax",ASTRO ARENA (php)
+http://ma-yi.k.vu/mayi/697456c165396.php?id=Arena
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="ShareExt@Relax",ASTRO ARENA 2 (php)
+http://ma-yi.k.vu/mayi/697456c165396.php?id=Arena2
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="ShareExt@Relax",ASTRO PREMIER LEAGUE (php)
+http://ma-yi.k.vu/mayi/697456c165396.php?id=go_assp1
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="ShareExt@Relax",ASTRO PREMIER LEAGUE 2 (php)
+http://ma-yi.k.vu/mayi/697456c165396.php?id=go_assp2
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="ShareExt@Relax",ASTRO GRANDSTAND (php)
+http://ma-yi.k.vu/mayi/697456c165396.php?id=go_assp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="ShareExt@Relax",ASTRO FOOTBALL (php)
+http://ma-yi.k.vu/mayi/697456c165396.php?id=go_assp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="ShareExt@Relax",ASTRO CRICKET (php)
+http://ma-yi.k.vu/mayi/697456c165396.php?id=Acricket
 
 #EXTINF:-1 tvg-id="Champions.TV. tvg-logo="https://mimipipi22.github.io/logo/sports/champions1.jpg" group-title="ShareExt@Relax",CHAMPIONS TV 1 (achtv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
