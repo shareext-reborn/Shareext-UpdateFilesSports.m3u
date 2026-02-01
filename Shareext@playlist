@@ -119,17 +119,17 @@ https://nl.utako.moe/fighting_tv/index.m3u8
 https://nl.utako.moe/sport_live_plus/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", TH: TRUE Premiere Football 1 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302733.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", TH: TRUE Premiere Football 2 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302734.ts
+http://filex.me:8080//live/Ghosia104/pathan104/302733.ts
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", TH: TRUE Premiere Football 2 HD
+http://filex.me:8080//live/Ghosia104/pathan104/302734.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", TH: TRUE Sport 3 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302735.ts
+http://filex.me:8080//live/Ghosia104/pathan104/302735.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", TH: TRUE Sport 4 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302736.ts
+http://filex.me:8080//live/Ghosia104/pathan104/302736.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", TH: Thairath TV 32 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302732.ts
+http://filex.me:8080//live/Ghosia104/pathan104/302732.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", TH: PPTV HD 36
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302726.ts
+http://filex.me:8080//live/Ghosia104/pathan104/302726.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="ShareExt@Relax",SOCCER CHANEL (ID)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165923.ts
@@ -1783,26 +1783,96 @@ http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/6604
 
 
 
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  CA: BEIN SPORTS
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/5405
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  USA: VIP BEIN SPORTS 1
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/5589
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  FR: BEIN SPORTS 1
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/373
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  FR: BEIN SPORTS 2
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/374
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  FR: BEIN SPORTS 3
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/375
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  FR: BEIN SPORT MAX 4
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/376
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  FR: BEIN SPORT MAX 5
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/377
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS 1
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/841
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS 2
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/842
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS 3
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/843
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS 4
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/844
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS 5
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/845
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS 6
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/846
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS 7
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/847
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS PREMIUM 1
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/853
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS PREMIUM 2
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/854
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS PREMIUM 3
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/855
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS MAX 1
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/835
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS MAX 2
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/836
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS MAX 3
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/837
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS MAX 4
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/838
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS MAX 6
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/840
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS ENG 1
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/848
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS ENG 2
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/849
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS ENG 3
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/850
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS NBA
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/851
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS NEWS
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/852
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS XTRA 1
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/856
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  TR: BEIN SPORTS 1 FHD
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/141360
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  TR: BEIN SPORTS 2 FHD
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/141362
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  TR: BEIN SPORTS 3 FHD
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/141364
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  TR: BEIN SPORTS 4 FHD
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/141366
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  TR: BEIN SPORTS 5 HD
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/141358
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  TR: BEIN SPORTS HABER FHD
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/141370
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  TR: BEIN SPORTS MAX 1 FHD
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/141372
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  TR: BEIN SPORTS MAX 2 FHD
+http://31.43.191.125:8080/VIP0178173957406671/01742407017477/141374
 
-
-
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", BEINSPORTS 1 
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", BEINSPORTS 1 AR
 http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=1178455
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", BEINSPORTS 2
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", BEINSPORTS 2 AR
 http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=1178452
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", BEIN SPORTS 3
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", BEIN SPORTS 3 AR
 http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=1178451 
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", BEINSPORTS 4
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", BEINSPORTS 4 AR
 http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=1178450
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", BEIN SPORTS 5
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", BEIN SPORTS 5 AR
 http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=1178449 
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", BEINSPORTS 6
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", BEINSPORTS 6 AR
 http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=1178448
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", BEINSPORTS 7
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", BEINSPORTS 7 AR
 http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=1178447
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", BEINSPORTS 8
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", BEINSPORTS 8 AR
 http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=1178446
-#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", BEIN SPORTS 9
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", BEIN SPORTS 9 AR
 http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=1178445
 
 #EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 1 SD [480p]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",|TR| beIN Sports 1 SD [480p]
