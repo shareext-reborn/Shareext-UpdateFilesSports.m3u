@@ -160,6 +160,15 @@ http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165906.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="ShareExt@Relax",MNCTV HD (ID)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165907.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="ShareExt@Relax", IDS: INDOSIAR VIP
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34327
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="ShareExt@Relax", IDS: SPOTV VIP
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34406
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="ShareExt@Relax", IDS: SPOTV 2 VIP
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34405
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="ShareExt@Relax", IDS: FIGHT SPORTS VIP
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34365
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",MY: ASTRO FOOTBALL
 http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34531
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax",MY: W SPORTS
