@@ -120,7 +120,7 @@ https://nl.utako.moe/sport_live_plus/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", TH: TRUE Premiere Football 1 HD
 http://filex.me:8080//live/Ghosia104/pathan104/302733.ts
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", TH: TRUE Premiere Football 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", TH: TRUE Premiere Football 2 HD
 http://filex.me:8080//live/Ghosia104/pathan104/302734.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", TH: TRUE Sport 3 HD
 http://filex.me:8080//live/Ghosia104/pathan104/302735.ts
