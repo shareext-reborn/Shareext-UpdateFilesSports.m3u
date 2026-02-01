@@ -15,6 +15,36 @@ http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport3_twn
 http://ma-yi.k.vu/mayi/697456c165396.php?id=dazn1_twn
 #EXTINF:-1 tvg-id="dazn2sp.mv" tvg-name="DAZN 2" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="ShareExt@Relax",DAZN ELEVEN 2 (twn)
 http://ma-yi.k.vu/mayi/697456c165396.php?id=dazn2_twn
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", 博斯运动一台 bosisport1_twn (php)
+http://ma-yi.k.vu/mayi/697456c165396.php?id=bosisport1_twn 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", 博斯运动二台 bosisport2_twn (php)
+http://ma-yi.k.vu/mayi/697456c165396.php?id=bosisport2_twn 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", 博斯高球一台 golf1_twn (php)
+http://ma-yi.k.vu/mayi/697456c165396.php?id=bosigolf1_twn
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", 博斯高球二台 golf2_twn (php)
+http://ma-yi.k.vu/mayi/697456c165396.php?id=bosigolf2_twn 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", 博斯网球台 tennis_twn (php)
+http://ma-yi.k.vu/mayi/697456c165396.php?id=bositennis_twn
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", 纬来体育 videolandSport_twn (php)
+http://ma-yi.k.vu/mayi/697456c165396.php?id=videolandsport
+
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="ShareExt@Relax",CCTV 5 (a)
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="ShareExt@Relax",Cctv 5 (b)
+http://120.238.94.10:9901/tsfile/live/1022_1.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="ShareExt@Relax",CCTV 5plus
+http://69.30.246.194/live/cctv5p.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="ShareExt@Relax",CCTV 16
+http://69.30.246.194/live/cctv16.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", Astro Badminton 1 (php)
+http://ma-yi.k.vu/mayi/697456c165396.php?id=go_badminton1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", Astro Beinsports 1 (php)
+http://ma-yi.k.vu/mayi/697456c165396.php?id=Astrobein1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", Astro Beinsports 2 (php)
+http://ma-yi.k.vu/mayi/697456c165396.php?id=Astrobein2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", Astro Beinsports 3 (php)
+http://ma-yi.k.vu/mayi/697456c165396.php?id=Astrobein3
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="ShareExt@Relax",ASTRO ARENA (php)
 http://ma-yi.k.vu/mayi/697456c165396.php?id=Arena
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="ShareExt@Relax",ASTRO ARENA 2 (php)
@@ -297,15 +327,6 @@ http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&str
 http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941563
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ShareExt@Relax",SG| NBA TV HD
 http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941562
-
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="ShareExt@Relax",CCTV 5 (a)
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="ShareExt@Relax",Cctv 5 (b)
-http://120.238.94.10:9901/tsfile/live/1022_1.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="ShareExt@Relax",CCTV 5plus
-http://69.30.246.194/live/cctv5p.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="ShareExt@Relax",CCTV 16
-http://69.30.246.194/live/cctv16.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",Hub Premier  EPL 01
 http://lunar.pm:8080/Mrdon/4782314540/110288
