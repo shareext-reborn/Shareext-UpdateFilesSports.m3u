@@ -48,29 +48,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUQvwqEdRoGLc6sIDOfBPd48N7PTb-g4ANg&usqp=CAU",Fight sports (tvod)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="ShareExt@Relax",TW: ELTA SPORT 1 (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport1_twn 
-#EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" group-title="ShareExt@Relax",TW: ELTA SPORT 2 (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport2_twn 
-#EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" group-title="ShareExt@Relax",TW: ELTA SPORT 3 (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport3_twn
-#EXTINF:-1 tvg-id="dazn1.mv" tvg-name="DAZN 1" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="ShareExt@Relax",DAZN ELEVEN 1 (twn)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=dazn1_twn
-#EXTINF:-1 tvg-id="dazn2sp.mv" tvg-name="DAZN 2" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="ShareExt@Relax",DAZN ELEVEN 2 (twn)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=dazn2_twn
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", 博斯运动一台 bosisport1_twn (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=bosisport1_twn 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", 博斯运动二台 bosisport2_twn (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=bosisport2_twn 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", 博斯高球一台 golf1_twn (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=bosigolf1_twn
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", 博斯高球二台 golf2_twn (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=bosigolf2_twn 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", 博斯网球台 tennis_twn (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=bositennis_twn
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax", 纬来体育 videolandSport_twn (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=videolandsport
-
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="ShareExt@Relax",CCTV 5 (a)
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="ShareExt@Relax",Cctv 5 (b)
@@ -83,7 +60,9 @@ http://69.30.246.194/live/cctv16.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="ShareExt@Relax", ELTA体育_sports.1
 http://67.220.67.246:2347/livehttpplay?channel_id=20043
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="ShareExt@Relax", Now体育_sports_Prime 630
-https://hls.168.us.kg/u/630/master.m3u8 Now Sports 1,http://109.61.81.56:443/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
+https://hls.168.us.kg/u/630/master.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="ShareExt@Relax", Now体育_Now Sports 1
+http://109.61.81.56:443/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", MLY: SPOTV-2
 http://iptv.4666888.xyz/iptv2A.php?id=1 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", MLY: SPOTV-1
@@ -92,29 +71,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=2
 http://iptv.4666888.xyz/iptv2A.php?id=3 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@Relax", UK: SKYSPORTS Football
 http://iptv.4666888.xyz/iptv2A.php?id=4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", Astro Badminton 1 (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=go_badminton1
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", Astro Beinsports 1 (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=Astrobein1
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", Astro Beinsports 2 (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=Astrobein2
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ShareExt@Relax", Astro Beinsports 3 (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=Astrobein3
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="ShareExt@Relax",ASTRO ARENA (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=Arena
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="ShareExt@Relax",ASTRO ARENA 2 (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=Arena2
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="ShareExt@Relax",ASTRO PREMIER LEAGUE (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=go_assp1
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="ShareExt@Relax",ASTRO PREMIER LEAGUE 2 (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=go_assp2
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="ShareExt@Relax",ASTRO GRANDSTAND (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=go_assp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="ShareExt@Relax",ASTRO FOOTBALL (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=go_assp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="ShareExt@Relax",ASTRO CRICKET (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=Acricket
 
 #EXTINF:-1 tvg-id="Champions.TV. tvg-logo="https://mimipipi22.github.io/logo/sports/champions1.jpg" group-title="ShareExt@Relax",CHAMPIONS TV 1 (mmd)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -2460,16 +2416,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (W
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS",TW: ELTA SPORT 1 (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport1_twn 
-#EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS",TW: ELTA SPORT 2 (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport2_twn 
-#EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS",TW: ELTA SPORT 3 (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=eltasport3_twn
-#EXTINF:-1 tvg-id="dazn1.mv" tvg-name="DAZN 1" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS",DAZN ELEVEN 1 (twn)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=dazn1_twn
-#EXTINF:-1 tvg-id="dazn2sp.mv" tvg-name="DAZN 2" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS",DAZN ELEVEN 2 (twn)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=dazn2_twn
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS",NOW HK PREMIER SPORTS 01
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/164320.m3u8
