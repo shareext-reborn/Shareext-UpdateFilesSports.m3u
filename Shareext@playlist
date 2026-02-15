@@ -5,11 +5,30 @@ https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@_SHAREEXT@!!!!
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/soccer.jpg" group-title="ShareExt@Relax",Soccer Channel (tvod)
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
-
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/soccer.jpg" group-title="ShareExt@Relax",ID: Soccer Channel (alpha5)
+http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919399&extension=ts
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",ID: Spotv (alpha5)
+http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919396&extension=ts
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png",ID: Spotv 2 (alpha5)
+http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919395&extension=ts
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",ID: Sportstar 1 (alpha5)
+http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919398&extension=ts
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png",ID: Sportstar 2 (alpha5)
+http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919397&extension=ts
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png",ID: Sportstar 4 (alpha5)
+http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919377&extension=ts
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png", ID: BEINSPORTS 1_alpha5
+http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919472&extension=ts
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png", ID: BEINSPORTS 2_alpha5
+http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919471&extension=ts
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png", ID: BEINSPORTS 3_alpha5
+http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919470&extension=ts
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png", ID: BEINSPORTS 4_alpha5
+http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919469&extension=ts
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png", ID: BEINSPORTS 5_alpha5
+http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919468&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="ShareExt@Relax",ANTV (alpha5)
+http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919479&extension=ts
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR HD(mag)
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="ShareExt@Relax",RCTI (VIP)
@@ -18,42 +37,6 @@ http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34322
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505855.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="ShareExt@Relax",GTV (mag)
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505835.ts
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",Spotv (tvod)
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png",Spotv 2 (tvod)
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",Sportstar 1 (tvod)
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000134/1024.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png",Sportstar 2 (tvod)
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png",Sportstar 2 (tvod) (B)
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png",Sportstar 4 (tvod)
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUQvwqEdRoGLc6sIDOfBPd48N7PTb-g4ANg&usqp=CAU",Fight sports (tvod)
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="ShareExt@Relax",ELTA SPORTS 1 (play)
 http://107.175.220.4:11799/eltasport1_twn/playlist.m3u8
@@ -1838,15 +1821,7 @@ https://a1xs.vip/1100032
 
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3 
-#EXTINF:-1 tvg-id="Dubai Sports 1.ae" tvg-name="Dubai Sports 1.ae" tvg-logo="https://warningfm.github.io/v3/img/easjB2c.png?v=1.1.1.1" group-title="SHAREEXT@ ARABIAN || SPORTS", •DubaiSports 1 
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3 
-#EXTINF:-1 tvg-id="Dubai Sports 2.ae" tvg-name="Dubai Sports 2.ae" tvg-logo="https://warningfm.github.io/v3/img/rACeM3m.png?v=1.1.1.1" group-title="SHAREEXT@ ARABIAN || SPORTS", •DubaiSports 2 
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3 
-#EXTINF:-1 tvg-id="Dubai Sports 3.ar" tvg-name="Dubai Sports 3.ar" tvg-logo="https://i.imgur.com/FzcQgKU.png?v=1.1.1.1" group-title="SHAREEXT@ ARABIAN || SPORTS", •DubaiSports 3 
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8 
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS",AR | BEIN SPORTS 1 HD
 http://185.160.192.64:80/mangin15/85784/13682
@@ -2009,77 +1984,77 @@ http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/6604
 
 
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  CA: BEIN SPORTS
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/5405
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/5405
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  USA: VIP BEIN SPORTS 1
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/5589
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/5589
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  FR: BEIN SPORTS 1
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/373
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/373
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  FR: BEIN SPORTS 2
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/374
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/374
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  FR: BEIN SPORTS 3
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/375
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/375
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  FR: BEIN SPORT MAX 4
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/376
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/376
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  FR: BEIN SPORT MAX 5
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/377
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/377
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS 1
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/841
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/841
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS 2
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/842
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/842
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS 3
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/843
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/843
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS 4
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/844
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/844
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS 5
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/845
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/845
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS 6
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/846
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/846
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS 7
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/847
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/847
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS PREMIUM 1
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/853
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/853
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS PREMIUM 2
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/854
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/854
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS PREMIUM 3
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/855
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/855
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS MAX 1
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/835
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/835
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS MAX 2
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/836
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/836
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS MAX 3
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/837
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/837
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS MAX 4
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/838
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/838
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS MAX 6
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/840
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/840
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS ENG 1
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/848
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/848
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS ENG 2
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/849
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/849
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS ENG 3
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/850
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/850
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS NBA
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/851
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/851
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS NEWS
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/852
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/852
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  AR: BEIN SPORTS XTRA 1
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/856
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/856
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  TR: BEIN SPORTS 1 FHD
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/141360
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/141360
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  TR: BEIN SPORTS 2 FHD
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/141362
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/141362
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  TR: BEIN SPORTS 3 FHD
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/141364
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/141364
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  TR: BEIN SPORTS 4 FHD
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/141366
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/141366
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  TR: BEIN SPORTS 5 HD
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/141358
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/141358
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  TR: BEIN SPORTS HABER FHD
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/141370
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/141370
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  TR: BEIN SPORTS MAX 1 FHD
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/141372
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/141372
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP",  TR: BEIN SPORTS MAX 2 FHD
-http://31.43.191.125:8080/VIP0178173957406671/01742407017477/141374
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/141374
 
 #EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@ BEINSPORTS || GROUP", BEINSPORTS 1 AR
 http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream=1178455
@@ -2554,6 +2529,84 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (W
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", DAZN 1
+http://208.87.242.79/livehttpplay?channel_id=10104 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", DAZN 2
+http://208.87.242.79/livehttpplay?channel_id=10105
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", ELTA_1 *
+http://67.220.67.246:2347/livehttpplay?channel_id=20043
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", ELTA体育 1
+http://208.87.242.79/livehttpplay?channel_id=20043
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", ELTA体育 2
+http://208.87.242.79/livehttpplay?channel_id=20107 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", ELTA体育 3
+http://208.87.242.79/livehttpplay?channel_id=21422 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", ELTA体育 4
+http://208.87.242.79/livehttpplay?channel_id=20100 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", ESPN  2
+http://208.87.242.79/livehttpplay?channel_id=13039
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", ESPN DEPORTES
+http://208.87.242.79/livehttpplay?channel_id=13050 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", ESPN U
+http://208.87.242.79/livehttpplay?channel_id=13030 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", FRANCE 24
+http://208.87.242.79/livehttpplay?channel_id=20137 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", FS 1
+http://208.87.242.79/livehttpplay?channel_id=13033 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", FS 2
+http://208.87.242.79/livehttpplay?channel_id=13034 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", GOL
+http://208.87.242.79/livehttpplay?channel_id=13060
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", MLB
+http://208.87.242.79/livehttpplay?channel_id=13031 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", NFL
+http://208.87.242.79/livehttpplay?channel_id=13032 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", SEC NETWORK
+http://208.87.242.79/livehttpplay?channel_id=13037 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", TENNIS CHANNEL
+http://208.87.242.79/livehttpplay?channel_id=13038 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", CCTV-5
+http://67.220.67.246:2347/livehttpplay?channel_id=30003
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", CCTV-5+
+http://67.220.67.246:2347/livehttpplay?channel_id=30004
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", CCTV-16
+http://67.220.67.246:2347/livehttpplay?channel_id=20039 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", HK: NOW SPORTS 1
+http://208.87.242.79/livehttpplay?channel_id=13007 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", HK: NOW SPORTS 2
+http://208.87.242.79/livehttpplay?channel_id=13008 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", HK: NOW SPORTS 3
+http://208.87.242.79/livehttpplay?channel_id=13009 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", HK: NOW SPORTS 4
+http://208.87.242.79/livehttpplay?channel_id=13010 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", HK: NOW SPORTS 5
+http://208.87.242.79/livehttpplay?channel_id=13011
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", 纬来体育
+http://208.87.242.79/livehttpplay?channel_id=20120 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", 纬来戏剧
+http://208.87.242.79/livehttpplay?channel_id=20200 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", 纬来日本
+http://208.87.242.79/livehttpplay?channel_id=20303 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", 纬来电影
+http://67.220.67.246:2347/livehttpplay?channel_id=20199
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", 纬来综合
+http://67.220.67.246:2347/livehttpplay?channel_id=20201
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", 纬来育乐
+http://208.87.242.79/livehttpplay?channel_id=20202 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", 靖天欢乐台
+http://208.87.242.79/livehttpplay?channel_id=30021
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", 龙华日韩
+http://208.87.242.79/livehttpplay?channel_id=20081 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", 龙华电影
+http://208.87.242.79/livehttpplay?channel_id=10129 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", 博斯运动 1
+http://208.87.242.79/livehttpplay?channel_id=10131 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", 博斯高球 1
+http://208.87.242.79/livehttpplay?channel_id=20103 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS", 博斯高球 2
+http://208.87.242.79/livehttpplay?channel_id=20117
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS",NOW HK PREMIER SPORTS 01
 http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/164320.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="SHAREEXT@ TAIWAN | HK SPORTS",NOW HK PREMIER SPORTS 02
@@ -2841,8 +2894,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 
 
-
-
 #EXTINF:-1 tvg-logo="http://ccdnblck.xyz:80/images/8453b8a9c642d058df65283132b0464c.png" group-title="SHAREEXT@BRAZILIA ➾ Sports",Canal do Inter (720p)
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1631301541452718080/Zx60yrrT_400x400.jpg" group-title="SHAREEXT@BRAZILIA ➾ Sports", ..Esportes Brasília HD!!
@@ -2850,7 +2901,24 @@ https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8|user-agent=Shareext/
 
 
 
-
+#EXTINF:-1 tvg-id="MX: FOX SPORTS" tvg-name="MEX: FOX SPORTS" tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@ MEXICO || SPORTS", FOX SPORTS
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/775817
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FOX SPORTS 2" tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@ MEXICO || SPORTS", FOX SPORTS 2
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/775818
+#EXTINF:-1 tvg-id="MX: FOX SPORTS 3" tvg-name="MEX: FOX SPORTS 3" tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@ MEXICO || SPORTS", FOX SPORTS 3
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/775819
+#EXTINF:-1 tvg-id="MX: ESPN" tvg-name="MEX: ESPN" tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@ MEXICO || SPORTS", ESPN
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/775803
+#EXTINF:-1 tvg-id="MX: ESPN 2" tvg-name="MEX: ESPN 2" tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@ MEXICO || SPORTS", ESPN 2
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/775800
+#EXTINF:-1 tvg-id="MX: ESPN 3" tvg-name="MEX: ESPN 3" tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@ MEXICO || SPORTS", ESPN 3
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/775801
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN EXTRA" tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@ MEXICO || SPORTS", ESPN EXTRA
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/775802
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CLARO SPORTS" tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@ MEXICO || SPORTS", CLARO SPORTS
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/775784
+#EXTINF:-1 tvg-id="MX: ADRENALINA SPORTS" tvg-name="MEX: ADRENALINA SPORTS NETWORK" tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@ MEXICO || SPORTS", ADRENALINA SPORTS NETWORK
+http://zerotwo.access.ly:2096/johnshandrick/5432169708/775760
 
 
 
