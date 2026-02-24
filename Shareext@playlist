@@ -5,47 +5,15 @@ https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@_SHAREEXT@!!!!
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/soccer.jpg" group-title="ShareExt@Relax",ID: Soccer Channel (alpha5)
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919399&extension=ts
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",ID: Spotv (alpha5)
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919396&extension=ts
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png",ID: Spotv 2 (alpha5)
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919395&extension=ts
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",ID: Sportstar 1 (alpha5)
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919398&extension=ts
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png",ID: Sportstar 2 (alpha5)
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919397&extension=ts
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png",ID: Sportstar 4 (alpha5)
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919377&extension=ts
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png", ID: BEINSPORTS 1_alpha5
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919472&extension=ts
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png", ID: BEINSPORTS 2_alpha5
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919471&extension=ts
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png", ID: BEINSPORTS 3_alpha5
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919470&extension=ts
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png", ID: BEINSPORTS 4_alpha5
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919469&extension=ts
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png", ID: BEINSPORTS 5_alpha5
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919468&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="ShareExt@Relax",ANTV (alpha5)
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919479&extension=ts
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR HD(f.me)
 http://filex.me:8080//live/000003/000003/302264.ts
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR HD(mag)
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="ShareExt@Relax",RCTI (VIP)
-http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34322
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="ShareExt@Relax",MNCTV (mag)
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505855.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="ShareExt@Relax",GTV (mag)
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505835.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="ShareExt@Relax",ELTA SPORTS 1 (play)
-http://107.175.220.4:11799/eltasport1_twn/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" group-title="ShareExt@Relax",ELTA SPORTS 2 (play)
-http://107.175.220.4:11799/eltasport2_twn/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" group-title="ShareExt@Relax",ELTA SPORTS 3 (play)
-http://107.175.220.4:11799/eltasport3_twn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="ShareExt@Relax",TW: ELTA SPORT 1 (php)
 https://smt.tzh911.de5.net/eltasport1_twn/playlist.m3u8
@@ -180,33 +148,22 @@ http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776195&exte
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/65kzcHY3/ezgif-375e544a778439e1.png",PPTV HD 36
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776142&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", TH: TRUE Premiere Football 2 HD
-http://filex.me:8080//live/MAS101A/MAS101AABB/302733.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", TH: TRUE Sport 3 HD
-http://filex.me:8080//live/MAS101A/MAS101AABB/302735.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", TH: TRUE Sport 4 HD
-http://filex.me:8080//live/MAS101A/MAS101AABB/302736.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", TH: Thairath TV 32 HD
-http://filex.me:8080//live/MAS101A/MAS101AABB/302732.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="ShareExt@Relax", TH: PPTV HD 36
-http://filex.me:8080//live/MAS101A/MAS101AABB/302726.ts
-
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-arena-my.png",ASTRO ARENA (play)
-http://107.175.220.4:11799/Arena/playlist.m3u8
+https://smt.tzh911.de5.net/Arena/playlist.m3u8
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-arena-2-my.png",ASTRO ARENA 2 (play)
-http://107.175.220.4:11799/Arena2/playlist.m3u8
+https://smt.tzh911.de5.net/Arena2/playlist.m3u8
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-badminton-my.png",ASTRO BADMINTON (play)
-http://107.175.220.4:11799/go_badminton1/playlist.m3u8
+https://smt.tzh911.de5.net/go_badminton1/playlist.m3u8
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-premier-league-my.png",ASTRO PREMIER LEAGUE (play)
-http://107.175.220.4:11799/go_assp1/playlist.m3u8
+https://smt.tzh911.de5.net/go_assp1/playlist.m3u8
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-premier-league-2-my.png",ASTRO PREMIER LEAGUE 2 (play)
-http://107.175.220.4:11799/go_assp2/playlist.m3u8
+https://smt.tzh911.de5.net/go_assp2/playlist.m3u8
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-grandstand-my.png",ASTRO GRANDSTAND (play)
-http://107.175.220.4:11799/go_assp3/playlist.m3u8
+https://smt.tzh911.de5.net/go_assp3/playlist.m3u8
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-football-my.png",ASTRO FOOTBALL (play)
-http://107.175.220.4:11799/go_assp4/playlist.m3u8
+https://smt.tzh911.de5.net/go_assp4/playlist.m3u8
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-sports-plus-my.png",ASTRO SPORTS PLUS (play)
-http://107.175.220.4:11799/go_sportsplus/playlist.m3u8
+https://smt.tzh911.de5.net/go_sportsplus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="ShareExt@Relax",RCTI  (ID)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165918.ts
@@ -676,7 +633,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2025.php
+#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.mpd
 
@@ -684,7 +641,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6858262bb8001827d52a
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2025.php
+#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68578b331d80178b5acf1fd0a55/manifest.mpd
 
@@ -692,7 +649,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68578b331d80178b5acf
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2025.php
+#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
 
@@ -700,48 +657,48 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b8d2390016b9c6a5
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2025.php
+#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856b6088c3016b87d55f480b52/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2025.php 
+#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857e04fca5017ec40cec31736f/7a5da94bdbd24ff790b84f892d4aa1e6.png" group-title="ShareExt@Relax",GOLF+ (cubmu)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd 
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2025.php
+#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827b703a262be7/8cc7a41bcc724b4ea668a5ca1aecac90.jpg" group-title="ShareExt@Relax",FOOTBALL TV (cubmu)
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c68582449a2e0182597777ec21f3/manifest.mpd 
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2025.php
+#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857fe540a1018060afdef540bc/5e2d673bff2f48cc8b8bf76018911952.jpg" group-title="ShareExt@Relax",SPORTS TV (cubmu)
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6857fe540a1018060afdef540bc/manifest.mpd 
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2025.php 
+#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060a4379740b7/85457b08d53449118c75e2f51186ddcb.jpg" group-title="ShareExt@Relax",XTREAM SPORTS (cubmu)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd 
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2025.php
+#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060b2307340bd/086909c32b7a426eae75792a891c9d8f.jpg" group-title="ShareExt@Relax",SPEED TV (cubmu)
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd 
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2025.php 
+#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060a0c34340b6/b3884938fdda48e49561e7e27024a00c.jpg" group-title="ShareExt@Relax",FIGHT TV PREMIUM (cubmu)
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd 
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2025.php
+#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6858d6351f0018dc0100d513246/cf58fdbdfa9f44a9b848d6c7097c3da9.jpg" group-title="ShareExt@Relax",PSJ TV (cubmu)
 https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
