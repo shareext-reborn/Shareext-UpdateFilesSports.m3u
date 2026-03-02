@@ -2747,39 +2747,6 @@ https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1631301541452718080/Zx60yrrT_400x400.jpg" group-title="SHAREEXT@ Brazil ➾ Sports", ..Esportes Brasília HD!!
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8|user-agent=Shareext/2.2.1
 
-#EXTINF:-1 tvg-id="" tvg-name="BR: BAND Sports HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/ceff609636ae03e6425dafdbd72ab1e3.png" group-title="SHAREEXT@ Brazil ➾ Sports", BAND Sports HD
-http://filex.me:8080//live/000003/000003/304294.ts
-#EXTINF:-1 tvg-id="espn.us" tvg-name="BR: ESPN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/9df70541246da4f2f9a65296dc2d5604.png" group-title="SHAREEXT@ Brazil ➾ Sports", ESPN HD
-http://filex.me:8080//live/000003/000003/304295.ts
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="BR: ESPN 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/68e11cc20e6cca405eeafe623b2bfdde.png" group-title="SHAREEXT@ Brazil ➾ Sports", ESPN 2 HD
-http://filex.me:8080//live/000003/000003/304296.ts
-#EXTINF:-1 tvg-id="espn3.nl" tvg-name="BR: ESPN 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/d4eadd237437bdfc6f611165eb5891c8.png" group-title="SHAREEXT@ Brazil ➾ Sports", ESPN 3 HD
-http://filex.me:8080//live/000003/000003/304297.ts
-#EXTINF:-1 tvg-id="espn4.nl" tvg-name="BR: ESPN 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/7b06a5762fbd3254392827b6c7fd411d.svg" group-title="SHAREEXT@ Brazil ➾ Sports", ESPN 4 HD
-http://filex.me:8080//live/000003/000003/304298.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Extra HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/280bbb819713bcee901695466ef9320a.png" group-title="SHAREEXT@ Brazil ➾ Sports", ESPN Extra HD
-http://filex.me:8080//live/000003/000003/304299.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: FOX Sports HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/2c324e02d5a437786a2e0e9657c52501.png" group-title="SHAREEXT@ Brazil ➾ Sports", FOX Sports HD
-http://filex.me:8080//live/000003/000003/304300.ts
-#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="BR: SporTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/6eafe5012b43973f31c5ee0b648e0594.png" group-title="SHAREEXT@ Brazil ➾ Sports", SporTV HD
-http://filex.me:8080//live/000003/000003/304301.ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="BR: SporTV 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/2f163193ab2de12c120e02e264bc16a7.png" group-title="SHAREEXT@ Brazil ➾ Sports", SporTV 2 HD
-http://filex.me:8080//live/000003/000003/304302.ts
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="BR: SporTV 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/50dc54d140bb68ee92fc1aa01bec5bb5.png" group-title="SHAREEXT@ Brazil ➾ Sports", SporTV 3 HD
-http://filex.me:8080//live/000003/000003/304303.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/b5e27276ad261e52a66167b0ea08521f.png" group-title="SHAREEXT@ Brazil ➾ Sports", Premiere FC 1 HD
-http://filex.me:8080//live/000003/000003/304357.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dbf8357765c676043e8305d199ee7a8d.png" group-title="SHAREEXT@ Brazil ➾ Sports", Premiere FC 3 HD
-http://filex.me:8080//live/000003/000003/304358.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6d1777d9b0fa66337bdf19a0025cab6a.png" group-title="SHAREEXT@ Brazil ➾ Sports", Premiere FC 4 HD
-http://filex.me:8080//live/000003/000003/304359.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 5 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f86fbf59b55119969d8988c445b9fb2e.png" group-title="SHAREEXT@ Brazil ➾ Sports", Premiere FC 5 HD
-http://filex.me:8080//live/000003/000003/304360.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 6 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/644bdf62e752682dfbd2a7ac83b8f441.png" group-title="SHAREEXT@ Brazil ➾ Sports", Premiere FC 6 HD
-http://filex.me:8080//live/000003/000003/304361.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 7 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/644bdf62e752682dfbd2a7ac83b8f441.png" group-title="SHAREEXT@ Brazil ➾ Sports", Premiere FC 7 HD
-http://filex.me:8080//live/000003/000003/304362.ts
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/ceff609636ae03e6425dafdbd72ab1e3.png" group-title="SHAREEXT@ Brazil ➾ Sports", BR:BAND SPORTS HD
 http://canal-pro.xyz:8080/978280496tv3/951r8ui/27114
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/9df70541246da4f2f9a65296dc2d5604.png" group-title="SHAREEXT@ Brazil ➾ Sports", BR:ESPN BRASIL HD
