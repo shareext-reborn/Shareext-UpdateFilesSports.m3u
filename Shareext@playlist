@@ -3334,47 +3334,53 @@ http://lemon.catchmeifyo.com:8000/9301834947/1675514161/46238
 #EXTINF:-1 tvg-id="playsports3.be" tvg-name="BE: PLAY SPORTS 3 ¹⁰⁸⁰ᵖ" tvg-logo="http://silvertv.net:1997/images/BELGIUM/play-sports-3.png" group-title="SHAREEXT@ BELGIA || SPORTS",BE: PLAYSPORTS 3 ¹⁰⁸⁰ᵖ
 http://lemon.catchmeifyo.com:8000/9301834947/1675514161/60567
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ BELGIA || SPORTS", TRING SPORT 1
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", TRING SPORT 1
 http://31.43.191.125:8080/chile/123456789/129299
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ BELGIA || SPORTS", TRING SPORT 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", TRING SPORT 2
 http://31.43.191.125:8080/chile/123456789/129302
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ BELGIA || SPORTS", TRING SPORT 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", TRING SPORT 3
 http://31.43.191.125:8080/chile/123456789/129303
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ BELGIA || SPORTS", TRING SPORT NEWS
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", TRING SPORT NEWS
 http://31.43.191.125:8080/chile/123456789/129307
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ BELGIA || SPORTS", RTSH SPORT
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", RTSH SPORT
 http://31.43.191.125:8080/chile/123456789/129214
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ BELGIA || SPORTS", FIGHT BOX
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", FIGHT BOX
 http://31.43.191.125:8080/chile/123456789/129086
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ BELGIA || SPORTS", EXTREAM SPORTS CHANNEL
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", EXTREAM SPORTS CHANNEL
 http://31.43.191.125:8080/chile/123456789/129083
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ BELGIA || SPORTS", EUROSPORT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", EUROSPORT 1
 http://31.43.191.125:8080/chile/123456789/129073
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ BELGIA || SPORTS", EUROSPORT 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", EUROSPORT 2
 http://31.43.191.125:8080/chile/123456789/129075
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ BELGIA || SPORTS", ART SPORT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", ART SPORT 1
 http://31.43.191.125:8080/chile/123456789/129031
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ BELGIA || SPORTS", ART SPORT 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", ART SPORT 2
 http://31.43.191.125:8080/chile/123456789/129033
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ BELGIA || SPORTS", ART SPORT 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", ART SPORT 3
 http://31.43.191.125:8080/chile/123456789/129036
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ BELGIA || SPORTS", SPORT KOSOVA 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", SPORT KOSOVA 1
 http://31.43.191.125:8080/chile/123456789/129236
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ BELGIA || SPORTS", SPORT KOSOVA 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", SPORT KOSOVA 2
 http://31.43.191.125:8080/chile/123456789/129238
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ BELGIA || SPORTS", SUPER SPORT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", SUPER SPORT 1
 http://31.43.191.125:8080/chile/123456789/129242
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ BELGIA || SPORTS", SUPER SPORT 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", SUPER SPORT 2
 http://31.43.191.125:8080/chile/123456789/129244
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ BELGIA || SPORTS", SUPER SPORT 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", SUPER SPORT 3
 http://31.43.191.125:8080/chile/123456789/129246
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ BELGIA || SPORTS", SUPER SPORT 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", SUPER SPORT 4
 http://31.43.191.125:8080/chile/123456789/129248
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ BELGIA || SPORTS", SUPER SPORTS 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", SUPER SPORTS 5
 http://31.43.191.125:8080/chile/123456789/129250
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ BELGIA || SPORTS", SUPER SPORT 6 [Live During Events Only]
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", SUPER SPORT 6 [Live During Events Only]
 http://31.43.191.125:8080/chile/123456789/129252
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ BELGIA || SPORTS", SUPER SPORTS NEWS
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ALBANIA || SPORTS", SUPER SPORTS NEWS
 http://31.43.191.125:8080/chile/123456789/129254
 
 
