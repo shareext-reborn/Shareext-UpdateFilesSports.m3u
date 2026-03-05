@@ -2585,38 +2585,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=15301&deviceMac=00:1A:79:1D:5
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", TEN SPORTS
 http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=15301&deviceMac=00:1A:79:1D:53:3F
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", PTV Sports (filex)
-http://filex.me:8080//live/MAS101A/MAS101AABB/247170.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", A Sports (filex) 
-http://filex.me:8080//live/MAS101A/MAS101AABB/247168.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", GEO Super (filex) 
-http://filex.me:8080//live/MAS101A/MAS101AABB/247167.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", TEN Sports (filex) 
-http://filex.me:8080//live/MAS101A/MAS101AABB/247171.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", STAR Sports 1 (filex) 
-http://filex.me:8080//live/MAS101A/MAS101AABB/247159.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", STAR Sports 2 (filex) 
-http://filex.me:8080//live/MAS101A/MAS101AABB/247160.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", STAR Sports Select 1 (filex) 
-http://filex.me:8080//live/MAS101A/MAS101AABB/247161.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", STAR Sports Select 2 (filex) 
-http://filex.me:8080//live/MAS101A/MAS101AABB/247162.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", SONY Sports 1 (filex) 
-http://filex.me:8080//live/MAS101A/MAS101AABB/247155.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", SONY Sports 2 (filex)
-http://filex.me:8080//live/MAS101A/MAS101AABB/247156.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", SONY Sports 3 (filex) 
-http://filex.me:8080//live/MAS101A/MAS101AABB/247157.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", SONY Sports 5 (filex) 
-http://filex.me:8080//live/MAS101A/MAS101AABB/247158.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", FAST Sports (filex) 
-http://filex.me:8080//live/MAS101A/MAS101AABB/247169.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", DD SPORTS HD (filex)
-http://filex.me:8080//live/MAS101A/MAS101AABB/701284.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", THE CRICKET (filex)
-http://filex.me:8080//live/MAS101A/MAS101AABB/658436.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", GEO Super HD (filex)
-http://filex.me:8080//live/MAS101A/MAS101AABB/52080.ts
 
 
 
