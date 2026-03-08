@@ -13,6 +13,24 @@ http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505855.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="ShareExt@Relax",GTV (mag)
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505835.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="ShareExt@Relax", ANTV HD+
+http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=1058862&extension=ts&play_token=XMOx1ovd3r
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="ShareExt@Relax", SCTV HD+
+http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=1058980&extension=ts&play_token=sL1r1lBem2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="ShareExt@Relax", KOMPASTV HD+
+http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=383012&extension=ts&play_token=jHi4DJvQVP
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="ShareExt@Relax", MNCTV_main
+http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=1058960&extension=ts&play_token=JTF719aZF0
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="ShareExt@Relax", MNCTV HD+
+http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=383011&extension=ts&play_token=tIkNXmfVCg
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="ShareExt@Relax", RCTI_main
+http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=1058967&extension=ts&play_token=fzYREd7xlv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="ShareExt@Relax", RCTI HD*
+http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=1058916&extension=ts&play_token=V89Jw857oo
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="ShareExt@Relax", GTV_main
+http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=383014&extension=ts&play_token=I0D2ZK33qB
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="ShareExt@Relax", ANTV_🇮🇩
 http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919479&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="ShareExt@Relax", SOCCER CHANNEL_🇮🇩
