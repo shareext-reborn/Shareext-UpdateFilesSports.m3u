@@ -2274,13 +2274,27 @@ http://tvmate.icu:8080/69NpyV/884735/9806
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",TVRI-SPORT (p)
+http://103.66.62.83:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",BEIN-SPORT (p)
+http://103.66.62.83:8000/play/BEIN-SPORT/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",BEIN-SPORT-2 (p)
+http://103.66.62.83:8000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",BEIN-SPORTXTRA (p)
+http://103.66.62.83:8000/play/a045/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",FIGHT-TV (p)
+http://103.66.62.83:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",REDBULL-TV (p)
+http://103.66.62.83:8000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",SPOTV (p)
+http://103.66.62.83:8000/play/a04w/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",SPOTV-2 (p)
+http://103.66.62.83:8000/play/a04v/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",WORLD-OF-FREESPORT (p)
+http://103.66.62.83:8000/play/a044/index.m3u8
 
-#EXTINF:-1 tvg-id="mentaritv.id" group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_mentaritv_small.png",MentariTV (indihome)
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://hifight.it/wp-content/uploads/2021/11/hifight-600x600-1.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", Hi-Fight Supersport
 http://49.0.64.96:8007/HIFIGHT
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YfQRjZs/Picsart-23-07-20-15-16-23-603.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", IMPACT! WRESTLING
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vsL9qN2/Boi-wwe.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS", WWE
 http://Supersonictv.live:8080/live/006779/439866/22185.ts
 
@@ -2297,20 +2311,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Sportstars 2 (ott.navigator)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", SPORTSTARS 3 (ott.navigator)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mastertv.tech/mastertv/topxxxxxxxxxx.php
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=114&type=drm
-#EXTINF:-1 tvg-id="MNCSports3.id" group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png",Sportstar 3 backup.(ott.navigator)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
@@ -2354,39 +2354,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
-#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/LiveEvent.png",R+ LIVE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=1008&type=drm
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://terabit.web.id/media.mpd?id=1008&type=dash
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",SPOTV (ott.navigator)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",SPOTV 2 (ott.navigator) 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
-#EXTINF:-1 tvg-id="PL" tvg-logo="https://i.ibb.co.com/Vprs3ftF/Premier-League-TV.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", PREMIER LEAGUE TV (ott.navigator)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
-#EXTINF:-1 tvg-id="Eurosport" group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/eurosport-hd.png",EUROSPORT HD (ott.navigator)
-https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
-
 #EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-id="TVRISport.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI Sport_(ott)
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
@@ -2399,6 +2366,21 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (W
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",RTM Sports
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Arena" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", Astro Arena
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/157485
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Cricket" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", Astro Cricket
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/157565
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Football" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", Astro Football
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/157558
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Grandstand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/c51712f19f8e63a52275fc6410b89b32.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", Astro Grandstand
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/306492
+#EXTINF:-1 tvg-id="" tvg-name="MY: beIN Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", beIN Sports
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/157561
+
+
+
+
+
 
 
 
@@ -2667,6 +2649,119 @@ http://81.31.194.66:8080/live/pro6471767597753/bf04b3f4a067/1492.m3u8
 http://81.31.194.66:8080/live/pro6471767597753/bf04b3f4a067/1493.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SKY SPORT MOTOGP" tvg-logo="https://docdog.top/logo/countries/pt/SKY_SPORT_MOTOGP.png" group-title="SHAREEXT@ PORTUGAL || SPORTS", SKY SPORT MOTOGP
 http://81.31.194.66:8080/live/pro6471767597753/bf04b3f4a067/1494.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cablenet Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/cadd4db10d5573ba6f60996347b0aefd.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cablenet Sports 1
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298893
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cablenet Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/7afce1bdfed6ea6c0c609a6dc9f98b99.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cablenet Sports 2
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298892
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/a37f9781be1a55a7c5f8763c8b6a38a9.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cosmote Sport 1
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/124
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 1 [vip]" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cosmote Sport 1 [vip]
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/301131
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/b51dc4246f87ba3e9a9265af0dae31a8.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cosmote Sport 2
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/18
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 2 [vip]" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cosmote Sport 2 [vip]
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/301132
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/94efcc671a18ace7e698c8006c78a400.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cosmote Sport 3
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/4269
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 3 [vip]" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cosmote Sport 3 [vip]
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/301133
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/7e80e4709cd888c8f0e16301db38a0aa.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cosmote Sport 4
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/125
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 4 [vip]" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cosmote Sport 4 [vip]
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/301134
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/d3def5f35a86a67dd93e41403a5fc441.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cosmote Sport 5
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/4271
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 5 [vip]" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cosmote Sport 5 [vip]
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/301135
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/f96731be87dde35f0f1a9908d5e6fbc1.jpg" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cosmote Sport 6
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/4272
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 6 [vip]" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cosmote Sport 6 [vip]
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/301136
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/05c99205230c13929e2435d8932e1312.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cosmote Sport 7
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/126
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 7 [vip]" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cosmote Sport 7 [vip]
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/308069
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/cbbf8bdd8c51923d2c692ab2b0d58579.jpg" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cosmote Sport 8
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/127
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 8 [vip]" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cosmote Sport 8 [vip]
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/308070
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/620809e2c99f5c7cd17dfb954008b053.jpg" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cosmote Sport 9
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/121356
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport 9 [vip]" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cosmote Sport 9 [vip]
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/308071
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport Highlights" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/720b57f6ec40d2ea358a38a26e2cd29b.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cosmote Sport Highlights
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/78307
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cytavision Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/85e53287a02631f8b42f621e2778d74c.jpg" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cytavision Sports 1
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298887
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cytavision Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/92d52b50694bfeb08d55fe85c3c4c3b0.jpg" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cytavision Sports 2
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298886
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cytavision Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/ac9c7fbc8efc78b9583aa7ca24419761.jpg" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cytavision Sports 3
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298885
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cytavision Sports 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/7726cc9068dc70b29be1ea38b6b6449a.jpg" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cytavision Sports 4
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298888
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cytavision Sports 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/0a02c6324173e3a9ac8da3eda527d82e.jpg" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cytavision Sports 5
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/300051
+#EXTINF:-1 tvg-id="" tvg-name="GR: Cytavision Sports 6" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Cytavision Sports 6
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/300152
+#EXTINF:-1 tvg-id="" tvg-name="GR: ERT Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b68a5fcf7c402244cd6110a2071f5e18.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: ERT Sports 2
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/276085
+#EXTINF:-1 tvg-id="" tvg-name="GR: Eurosport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/76dfe401eac1e58160dde438691d1d4a.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Eurosport 1
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/138
+#EXTINF:-1 tvg-id="" tvg-name="GR: Eurosport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/eead215977c00f89242f31aeb35f44eb.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Eurosport 2
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/139
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/12581690330415a663693dfe66758ece.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Nova Sports 1
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/12844
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports 1 [vip]" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Nova Sports 1 [vip]
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/301146
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/5b09fb0ef02df99ace9e5b3b1e620ede.jpg" group-title="SHAREEXT@ Greece ➾ Sports",GR: Nova sports 2
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/12845
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova sports 2 [vip]" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Nova sports 2 [vip]
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/301147
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/db84e4cab49518a4671bad903a694117.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Nova Sports 3
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/12846
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports 3 [vip]" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Nova Sports 3 [vip]
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/301148
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/8ecc003e88923bf810aa95e20deb8ce0.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Nova Sports 4
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/279631
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/38563dfe8e994c67749cc07d3d0df9a1.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Nova Sports 5
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/45242
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports 5 [vip]" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Nova Sports 5 [vip]
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/301150
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports 6 [vip]" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Nova Sports 6 [vip]
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/301151
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports Extra 1 [vip]" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/1d0472cc0d909bec07e379e79a86d4ec.jpg" group-title="SHAREEXT@ Greece ➾ Sports",GR: Nova Sports Extra 1 [vip]
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/301481
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports Extra 2 [vip]" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/4be723560f3e196c3ce74526e7b0e0ef.jpg" group-title="SHAREEXT@ Greece ➾ Sports",GR: Nova Sports Extra 2 [vip]
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/301482
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports Extra 3 [vip]" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/efb2996d6b1295a1fc0a31d235c0d61c.jpg" group-title="SHAREEXT@ Greece ➾ Sports",GR: Nova Sports Extra 3 [vip]
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/301483
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports Extra 4 [vip]" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/0258abf764780553ea17a0295b8a6e55.jpg" group-title="SHAREEXT@ Greece ➾ Sports",GR: Nova Sports Extra 4 [vip]
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/301484
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/60f726696409df34e89c73b753e3a9f3.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Nova Sports News
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/291111
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports Premier League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/051199229973ae41c76fc4e3937bd1ba.jpg" group-title="SHAREEXT@ Greece ➾ Sports",GR: Nova Sports Premier League
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298889
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova sports Prime" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/b077cb697a08826900534fb326ab38cf.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Nova sports Prime
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/291116
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports Start" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/de6669a9f7c29b7deeba613d4001d986.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Nova Sports Start
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/295161
+#EXTINF:-1 tvg-id="" tvg-name="GR: OPAP SPORT 1 [vip]" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: OPAP SPORT 1 [vip]
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/308078
+#EXTINF:-1 tvg-id="" tvg-name="GR: OPAP SPORT 2 [vip]" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: OPAP SPORT 2 [vip]
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/308079
+#EXTINF:-1 tvg-id="" tvg-name="GR: OPAP SPORT 3 [vip]" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: OPAP SPORT 3 [vip]
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/308080
+#EXTINF:-1 tvg-id="" tvg-name="GR: Sigma" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/4853d464c94bb80720306c3698475887.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Sigma
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/2671
+#EXTINF:-1 tvg-id="" tvg-name="GR: SportPlus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/005d3fbfcc5e9024b39b84a211e94e41.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: SportPlus
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298890
+#EXTINF:-1 tvg-id="" tvg-name="GR: Motorvision" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/207d3bfd7db5c1c77a9cbb48ee9d8046.png" group-title="SHAREEXT@ Greece ➾ Motor Sports",GR: Motorvision
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/146531
+
+
 
 
 
