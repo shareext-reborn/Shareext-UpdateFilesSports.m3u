@@ -71,8 +71,6 @@ http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 http://69.30.246.194/live/cctv5p.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="ShareExt@Relax",CCTV 16
 http://69.30.246.194/live/cctv16.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="ShareExt@Relax", Now体育_sports_Prime 630
-https://hls.168.us.kg/u/630/master.m3u8 
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/spotv-2-kr.png",SPOTV2 (asia)
 http://125.227.210.55:8176/VideoInput/play.ts
@@ -1609,54 +1607,6 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/ry1
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",AT | Fox Sports News 
-http://185.160.192.64:80/mangin15/85784/313970
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",AT | Racing.com 
-http://185.160.192.64:80/mangin15/85784/313969
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",AT | ESPN 1 
-http://185.160.192.64:80/mangin15/85784/313967
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",AT | ESPN 2 
-http://185.160.192.64:80/mangin15/85784/313968
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",AT | Fox Sports 501 Cricket 
-http://185.160.192.64:80/mangin15/85784/313960
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",AT | Fox Sports 502 Leauge 
-http://185.160.192.64:80/mangin15/85784/313961
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",AT | Fox Sports 503 
-http://185.160.192.64:80/mangin15/85784/313962
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",AT | Fox Sports 504 Fotty 
-http://185.160.192.64:80/mangin15/85784/313963
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",AT | Fox Sports 505 
-http://185.160.192.64:80/mangin15/85784/313964
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",AT | Fox Sports 506 
-http://185.160.192.64:80/mangin15/85784/313965
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",AT | Fox Sports 507 
-http://185.160.192.64:80/mangin15/85784/313966
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",NZ | SKY Sport 1 (D)
-http://185.160.192.64:80/mangin15/85784/313908
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",NZ | SKY Sport 2 (D)
-http://185.160.192.64:80/mangin15/85784/313907
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",NZ | SKY Sport 3 (D)
-http://185.160.192.64:80/mangin15/85784/313906
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",NZ | SKY Sport 4 (D)
-http://185.160.192.64:80/mangin15/85784/313905
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",NZ | SKY Sport 5 (D)
-http://185.160.192.64:80/mangin15/85784/313904
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",NZ | SKY Sport 6 (D)
-http://185.160.192.64:80/mangin15/85784/313903
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",NZ | SKY Sport 7 (7)
-http://185.160.192.64:80/mangin15/85784/313902
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",NZ | SKY Sport 8 Premier League (D)
-http://185.160.192.64:80/mangin15/85784/313901
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",NZ | SKY Sport 9 (D)
-http://185.160.192.64:80/mangin15/85784/313900
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",NZ | SKY Sport SELECT (D)
-http://185.160.192.64:80/mangin15/85784/313899
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",NZ | MUTV (D)
-http://185.160.192.64:80/mangin15/85784/313898
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",NZ | LFC TV (D)
-http://185.160.192.64:80/mangin15/85784/313897
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",NZ | NBA TV (D)
-http://185.160.192.64:80/mangin15/85784/313894
 
 #EXTINF:-1  tvg-name="Fox Sports 501 FHD" tvg-id="FoxCricket.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/59gCbVd.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",Fox Sports 501 FHD
 https://a1xs.vip/700001
@@ -1938,14 +1888,6 @@ http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:81:F8:6D&stream
 
 
 
-#EXTINF:-1 group-title="SHAREEXT@ WORLD_OF || SPORTS" tvg-logo="https://i.postimg.cc/cLK3v5Ym/ezgif-3d877fafbf577153.png",GO3 SPORT 1
-http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1075461.ts
-#EXTINF:-1 group-title="SHAREEXT@ WORLD_OF || SPORTS" tvg-logo="https://i.postimg.cc/FHqjGQmg/ezgif-3454a6e70dae1f1f.png",GO3 SPORT 2
-http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1075457.ts
-#EXTINF:-1 group-title="SHAREEXT@ WORLD_OF || SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/go-3-sport-3-lv.png",GO3 SPORT 3
-http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1075459.ts
-#EXTINF:-1 group-title="SHAREEXT@ WORLD_OF || SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/go-3-sport-open-lv.png",GO3 SPORT OPEN
-http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1075463.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ WORLD_OF || SPORTS",AT: SKYSPORT AUSTRIA HD
 http://g-med.xyz:25461/live/aleksanar_vujadinovic/anhuZ7SAj3hF/356.ts
@@ -2530,7 +2472,7 @@ http://aflaxtv.xyz:8080/F36591/3f1a2b5c/308080
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/2671
 #EXTINF:-1 tvg-id="" tvg-name="GR: SportPlus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/005d3fbfcc5e9024b39b84a211e94e41.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: SportPlus
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298890
-#EXTINF:-1 tvg-id="" tvg-name="GR: Motorvision" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/207d3bfd7db5c1c77a9cbb48ee9d8046.png" group-title="SHAREEXT@ Greece ➾ Motor Sports",GR: Motorvision
+#EXTINF:-1 tvg-id="" tvg-name="GR: Motorvision" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/207d3bfd7db5c1c77a9cbb48ee9d8046.png" group-title="SHAREEXT@ Greece ➾ Sports",GR: Motorvision
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/146531
 
 
