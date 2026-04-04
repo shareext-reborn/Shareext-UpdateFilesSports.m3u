@@ -202,6 +202,9 @@ http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298558
 #EXTINF:-1 tvg-id="" tvg-name="ID: GTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="ShareExt@Relax",ID: GTV (aflax)
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/157578
 
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR (ext)
+http://exm3u.extraott.com/6JG6WQTK/1RS973F7/1139211
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR (P)
 http://103.66.62.83:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR HD(vip)
@@ -2046,6 +2049,34 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (W
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", Astro arena
+http://exm3u.extraott.com/6JG6WQTK/1RS973F7/34436
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", Astro arena 2
+http://exm3u.extraott.com/6JG6WQTK/1RS973F7/33329
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", SPOTV 1
+http://exm3u.extraott.com/6JG6WQTK/1RS973F7/173259
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", Astro football
+http://exm3u.extraott.com/6JG6WQTK/1RS973F7/1080431
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", Astro badminton
+http://exm3u.extraott.com/6JG6WQTK/1RS973F7/1080432
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", W SPORTS
+http://exm3u.extraott.com/6JG6WQTK/1RS973F7/2145
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", Sony ten 1
+http://exm3u.extraott.com/6JG6WQTK/1RS973F7/4302
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", OKEY
+http://exm3u.extraott.com/6JG6WQTK/1RS973F7/151071
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO PREMIER LEAGUE 1 HD
+http://exm3u.extraott.com:80/6JG6WQTK/1RS973F7/29151
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO PREMIER LEAGUE 2 HD
+http://exm3u.extraott.com:80/6JG6WQTK/1RS973F7/29150
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO PREMIER LEAGUE 3 HD
+http://exm3u.extraott.com:80/6JG6WQTK/1RS973F7/29149
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO SPORT PLUS HD
+http://exm3u.extraott.com:80/6JG6WQTK/1RS973F7/29148
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", ASTRO CRICKET HD
+http://exm3u.extraott.com:80/6JG6WQTK/1RS973F7/1279147
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@MALAYSIA ➾  SPORTS",RTM Sports
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro Arena" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="SHAREEXT@MALAYSIA ➾  SPORTS", Astro Arena
@@ -2170,6 +2201,37 @@ http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=15301&deviceMac=00:1A:79:1D:5
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-1-th.png" group-title="SHAREEXT@THAILAND ➾ Sports", TRUE SPORTS 1
+http://119.59.118.168/live/ch9/irannahee/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-2-th.png" group-title="SHAREEXT@THAILAND ➾ Sports", TRUE SPORTS 2
+http://119.59.118.168/live/ch10/irannahee/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-3-th.png" group-title="SHAREEXT@THAILAND ➾ Sports", TRUE SPORTS 3
+http://119.59.118.168/live/ch11/irannahee/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-4-th.png" group-title="SHAREEXT@THAILAND ➾ Sports", TRUE SPORTS 4
+http://119.59.118.168/live/ch12/irannahee/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-5-th.png" group-title="SHAREEXT@THAILAND ➾ Sports", TRUE SPORTS 5
+http://119.59.118.168/live/ch13/irannahee/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-7-th.png" group-title="SHAREEXT@THAILAND ➾ Sports", TRUE SPORTS 7
+http://119.59.118.168/live/ch14/irannahee/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-7-th.png" group-title="SHAREEXT@THAILAND ➾ Sports", T SPORTS 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@THAILAND ➾ Sports", BEINSPORTS 1
+http://119.59.118.168/live/ch15/irannahee/index.m3u8
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@THAILAND ➾ Sports", BEINSPORTS 2
+http://119.59.118.168/live/ch16/irannahee/index.m3u8
+#EXTINF:-1 tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="SHAREEXT@THAILAND ➾ Sports", BEINSPORTS 3
+http://119.59.118.168/live/ch17/irannahee/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", SPOTV 1
+http://119.59.118.168/live/ch18/irannahee/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", SPOTV 2
+http://119.59.118.168/live/ch19/irannahee/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAILAND ➾ Sports", GOLF +
+http://119.59.118.168/live/ch20/irannahee/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PH: beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43bbde4fc0ae1f73eaa8e63f96c0a975.png" group-title="SHAREEXT@THAILAND ➾ Sports",PH: beIN Sports 1
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/282772
