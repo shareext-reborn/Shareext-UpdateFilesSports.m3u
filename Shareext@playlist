@@ -2304,24 +2304,6 @@ http://vipapyenhmw.top:8080/live/brejna/6yGNnFuahuTG/3405.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports", USA: DAZN RINGSIDE
 http://bgdc.live:25461/live/kimmyinny@gmail.com/5852813668/218787.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports", COMBATE (HD) »1«
-http://fastream.xyz:8080/935700164tv/fu64yqatp8/20693
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports", WWE NETWORK (HD) »1«
-http://fastream.xyz:8080/935700164tv/fu64yqatp8/20509
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports", UFC TV (HD)
-http://fastream.xyz:8080/935700164tv/fu64yqatp8/20374
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports", UFC FIGHT PASS (HD) »1«
-http://fastream.xyz:8080/935700164tv/fu64yqatp8/20382
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports", FIGHTING SPIRIT (HD)
-http://fastream.xyz:8080/935700164tv/fu64yqatp8/21045
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports", DIRECTV SPORTS FIGHT (HD)
-http://fastream.xyz:8080/935700164tv/fu64yqatp8/20350
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports", THE FIGHT NETWORK (HD) »1«
-http://fastream.xyz:8080/935700164tv/fu64yqatp8/21159
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="ShareExt@FIGHT_Sports", WWE NETWORK RAW (HD)
-http://fastream.xyz:8080/935700164tv/fu64yqatp8/21340
-
 #EXTINF:-1 xui-id="14881" tvg-id="FightNetwork.us" tvg-name="FIGHT NETWORK | HD" tvg-logo="http://46.151.196.243:80/images/75Dasug4Cl3n03mPqiyvKS4RHPoXgirOhR8AcCJt5BM.png" group-title="ShareExt@FIGHT_Sports",FIGHT NETWORK | HD
 http://46.151.196.243:80/play/LMrv_fYorITF9qmDeTZKot68p5w9IB2LSSqDnR1qSHo
 #EXTINF:-1 xui-id="38399" tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="http://46.151.196.243:80/images/75Dasug4Cl3n03mPqiyvKUelS-cCDvj2YYzBEYmIVAE.png" group-title="ShareExt@FIGHT_Sports",UFC FIGHT PASS
@@ -2394,40 +2376,9 @@ http://nor1live.win/livehttpplay?channel_id=23145
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1631301541452718080/Zx60yrrT_400x400.jpg" group-title="SHAREEXT@ Brazil ➾ Sports", ..Esportes Brasília HD!!
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8|user-agent=Shareext/2.2.1
-#EXTINF:-1 tvg-id="BAND" tvg-name="BR: BAND SPORT HD" tvg-logo="https://i.pinimg.com/736x/19/45/b2/1945b29f404c1507b017a26314599ad7--world-cup--transmission.jpg" group-title="SHAREEXT@ Brazil ➾ Sports",BR: BAND SPORT HD
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/285677
-#EXTINF:-1 tvg-id="US4600006R8" tvg-name="BR: COMBATE" tvg-logo="https://s3.glbimg.com/v1/AUTH_d293cd467b2749dfa7046f74d82537d0/prod/home-share-combate-343f6619.png" group-title="SHAREEXT@ Brazil ➾ Sports",BR: COMBATE
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/285680
-#EXTINF:-1 tvg-id="ESPNB" tvg-name="BR: ESPN HD" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="SHAREEXT@ Brazil ➾ Sports",BR: ESPN HD
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/285684
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2 HD" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="SHAREEXT@ Brazil ➾ Sports",BR: ESPN 2 HD
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/285687
-#EXTINF:-1 tvg-id="ESPNEHD" tvg-name="BR: ESPN 4 HD" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="SHAREEXT@ Brazil ➾ Sports",BR: ESPN 4 HD
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/285696
-#EXTINF:-1 tvg-id="" tvg-name="BR: OFF" tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ Brazil ➾ Sports",BR: OFF
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/285704
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE" tvg-logo="https://s04.video.glbimg.com/x720/6082049.jpg" group-title="SHAREEXT@ Brazil ➾ Sports",BR: PREMIERE
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/285709
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 2" tvg-logo="https://s04.video.glbimg.com/x720/6082049.jpg" group-title="SHAREEXT@ Brazil ➾ Sports",BR: PREMIERE 2
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/285711
-#EXTINF:-1 tvg-id="PR3UHD" tvg-name="BR: PREMIERE 3" tvg-logo="https://s04.video.glbimg.com/x720/6942200.jpg" group-title="SHAREEXT@ Brazil ➾ Sports",BR: PREMIERE 3
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/285713
-#EXTINF:-1 tvg-id="PRMR4HD" tvg-name="BR: PREMIERE 4" tvg-logo="https://s04.video.glbimg.com/x720/6942200.jpg" group-title="SHAREEXT@ Brazil ➾ Sports",BR: PREMIERE 4
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/285715
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 5" tvg-logo="https://s04.video.glbimg.com/x720/6942231.jpg" group-title="SHAREEXT@ Brazil ➾ Sports",BR: PREMIERE 5
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/285718
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 6" tvg-logo="https://s04.video.glbimg.com/x720/6942231.jpg" group-title="SHAREEXT@ Brazil ➾ Sports",BR: PREMIERE 6
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/285719
-#EXTINF:-1 tvg-id="PFCHDOI" tvg-name="BR: PREMIERE 7" tvg-logo="https://s04.video.glbimg.com/x720/6942231.jpg" group-title="SHAREEXT@ Brazil ➾ Sports",BR: PREMIERE 7
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/285720
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="BR: SporTV HD" tvg-logo="https://futbollibreenvivo.org/wp-content/uploads/2023/10/Sportv-BR-En-Vivo.png" group-title="SHAREEXT@ Brazil ➾ Sports",BR: SporTV HD
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/285723
-#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV 2 HD" tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ Brazil ➾ Sports",BR: SporTV 2 HD
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/285725
-#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV 3 HD" tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg" group-title="SHAREEXT@ Brazil ➾ Sports",BR: SporTV 3 HD
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/285727
-#EXTINF:-1 tvg-id="" tvg-name="BR: TNT Sports HD" tvg-logo="https://d1fdloi71mui9q.cloudfront.net/gmG5SEt1Snu6gsg9r2d3_LOGOS-LINKTREE-TNT-SPORTS.png" group-title="SHAREEXT@ Brazil ➾ Sports",BR: TNT Sports HD
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/285734
+
+
+
 
 
 
@@ -2450,41 +2401,6 @@ http://zerotwo.access.ly:2096/johnshandrick/5432169708/775802
 http://zerotwo.access.ly:2096/johnshandrick/5432169708/775784
 #EXTINF:-1 tvg-id="MX: ADRENALINA SPORTS" tvg-name="MEX: ADRENALINA SPORTS NETWORK" tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@ MEXICO || SPORTS", ADRENALINA SPORTS NETWORK
 http://zerotwo.access.ly:2096/johnshandrick/5432169708/775760
-
-
-
-#EXTINF:-1 tvg-id="DEPORHA" tvg-name="ARG: DEPORTV HD" tvg-logo="http://www.tmsimg.com/assets/s87430_h3_aa.png" group-title="SHAREEXT@ | ARGENTINA SPORTS",ARG: DEPORTV HD
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/220250
-#EXTINF:-1 tvg-id="ESPNLA" tvg-name="ARG: ESPN HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qzobqn1660760939.png" group-title="SHAREEXT@ | ARGENTINA SPORTS",ARG: ESPN HD
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/165649
-#EXTINF:-1 tvg-id="EPN2HAA" tvg-name="ARG: ESPN 2 HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wcualh1660760950.png" group-title="SHAREEXT@ | ARGENTINA SPORTS",ARG: ESPN 2 HD
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/165652
-#EXTINF:-1 tvg-id="ESPN3" tvg-name="ARG: ESPN 3 HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wkdrnd1660760961.png" group-title="SHAREEXT@ | ARGENTINA SPORTS",ARG: ESPN 3 HD
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/165654
-#EXTINF:-1 tvg-id="FSALA" tvg-name="ARG: FOX SPORTS HD" tvg-logo="http://www.tmsimg.com/assets/s17754_ll_h3_aa.png" group-title="SHAREEXT@ | ARGENTINA SPORTS",ARG: FOX SPORTS HD
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/165655
-#EXTINF:-1 tvg-id="FS2AR" tvg-name="ARG: FOX SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBI0EPdzOmISfxBD7kZQqu3qJqd5GBCdKPZnDKghLqTfSYxYCmYDs0Nm7v196VCE3V9qc&usqp=CAU" group-title="SHAREEXT@ | ARGENTINA SPORTS",ARG: FOX SPORTS 2 HD
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/165656
-#EXTINF:-1 tvg-id="FOXS3" tvg-name="ARG: FOX SPORTS 3 HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/small.551251533_FOXSports3ARG(2023-).png.e10c652fe1c72bfe143ea01f59d9a5a0.png" group-title="SHAREEXT@ | ARGENTINA SPORTS",ARG: FOX SPORTS 3 HD
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/165657
-#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-name="ARG: ESPN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="SHAREEXT@ | ARGENTINA SPORTS",ARG: ESPN PREMIUM
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/183614
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="ARG: TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC9oe3edDiex4gNlSNsnEGueETMFDm8Pm9OA&s" group-title="SHAREEXT@ | ARGENTINA SPORTS",ARG: TNT SPORTS
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/165664
-#EXTINF:-1 tvg-id="TYC" tvg-name="ARG: TYC SPORTS HD" tvg-logo="https://yt3.googleusercontent.com/HIeucb9xdTW5Hh7kkhDiROU7zLO6fNzn6q_fDvgFr_fD2qFH1vT-8U2OdOf0Pb_VCvmD-PClgQ=s900-c-k-c0x00ffffff-no-rj" group-title="SHAREEXT@ | ARGENTINA SPORTS",ARG: TYC SPORTS HD
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/165660
-#EXTINF:-1 tvg-id="TYCINTH" tvg-name="ARG: TYC SPORTS INT" tvg-logo="http://www.tmsimg.com/assets/s16275_ll_h3_aa.png" group-title="SHAREEXT@ | ARGENTINA SPORTS",ARG: TYC SPORTS INT
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/165658
-#EXTINF:-1 tvg-id="" tvg-name="ARG: SHOWSPORT CORDOBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjIb3we5seL4WIBk5bh57zf28LvXHjTo86g&s" group-title="SHAREEXT@ | ARGENTINA SPORTS",ARG: SHOWSPORT CORDOBA
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/511367
-#EXTINF:-1 tvg-id="" tvg-name="FLOW EVENTOS" tvg-logo="https://i.ytimg.com/vi/cDwChHxWO10/maxresdefault.jpg" group-title="SHAREEXT@ | ARGENTINA SPORTS",FLOW EVENTOS
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/409923
-#EXTINF:-1 tvg-id="" tvg-name="FLOW EVENTOS 2" tvg-logo="https://i.ytimg.com/vi/cDwChHxWO10/maxresdefault.jpg" group-title="SHAREEXT@ | ARGENTINA SPORTS",FLOW EVENTOS 2
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/418142
-#EXTINF:-1 tvg-id="" tvg-name="FLOW EVENTOS 3" tvg-logo="https://i.ytimg.com/vi/cDwChHxWO10/maxresdefault.jpg" group-title="SHAREEXT@ | ARGENTINA SPORTS",FLOW EVENTOS 3
-http://sinlimitestv.com:8080/z43BcTvGSX/mcGcdMuRWt/418143
-
-
 
 
 
@@ -2678,55 +2594,6 @@ http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/216841
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS",FanDuel Sports Network Ohio
 http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/216851
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS", USA::BEIN SPORTS CANADA
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/33360
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS",CA: BEIN Sports HD
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/254669
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS",CA: NBA TV HD
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/254691
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS",CA: Sportsnet ONE HD
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/254697
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS",CA: Sportsnet Ontario HD
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/254698
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS",CA: Sportsnet WEST FHD
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/254699
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS",CA: TSN 1 HD
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/254703
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS",CA: TSN 2 HD
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/254704
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS",NFL Network (ca)
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/254765
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS",Sportsnet 360 HD (ᴄᴀ)
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/254772
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS",Sportsnet East HD (ᴄᴀ)
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/254773
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS",Sportsnet One HD (ᴄᴀ)
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/254774
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS",Sportsnet Ontario HD (ᴄᴀ)
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/254775
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS",Sportsnet Pacific HD (ᴄᴀ)
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/254776
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS",Sportsnet West (ca)
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/254777
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS",Sportsnet World (ca)
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/254778
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS",Sportsnet WWE HD (ᴄᴀ)
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/254779
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS",TSN 1 (ca)
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/254784
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS",TSN 2 (ca)
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/254785
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS",TSN 3 (ca)
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/254786
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS",TSN 4 (ca)
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/254787
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS",TSN 5 (ca)
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/254788
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA - SPORTS",TVA Sports ʜᴅ
-http://fastream.xyz:8080/977605802tv/2k0mdjk34/254789
 
 
 
