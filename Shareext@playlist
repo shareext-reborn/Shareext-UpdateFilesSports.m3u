@@ -81,6 +81,9 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-badminton
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-badminton-2 
 
+#EXTINF:-1 tvg-logo="https://tv.cic.net.id/uploads/RTM_SPORT_MY.png" group-title="ShareExt@Relax", SUKAN MALAYSIA
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=rtm-sport
+
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-1-al.png",SUPERSPORT 1 (ALB) 
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-2-al.png",SUPERSPORT 2 (ALB) 
@@ -239,6 +242,14 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17140&type=drm
 https://ratuvidio.adptv.workers.dev/index.mpd?id=17140&type=dash
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/vv/voli-tv-id.png",VOLI TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=5073519&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=5076785&type=dash
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg",beIN Sports HD (usa) 
 https://iptv.707626.xyz/ch/8a2742ca6f44887706dc2cd75a458de3/master.m3u8
