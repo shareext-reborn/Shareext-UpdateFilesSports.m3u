@@ -593,6 +593,42 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",Gaora Sports (JPN)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs17
 
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/HLWpvjkM/ezgif-3f19faaad813c884.png",SPOTV NOW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+#EXTVLCOPT:http-referrer=https://www.mana2.my/
+https://slive.mana2.my/SpotvNow/index.mpd
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/fbZ13d7L/fighting-tv-samurai-jp.png",FIGHTING TV SAMURAI!
+http://akariko.netgenx.site/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/C5WQwnLy/sports-live-plus-jp.png",SPORT LIVE + (hls) 
+http://akariko.netgenx.site/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/qB5fmz0k/gaora-sportspng-jp.png",GAORA SPORTS(hls) 
+http://akariko.netgenx.site/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/bJq8jMV3/j-sports-1-jp.png",J SPORTS 1(hls) 
+http://akariko.netgenx.site/stream/jp/jsport_1/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/Gt2C4DCB/j-sports-2-jp.png",J SPORTS 2(hls) 
+http://akariko.netgenx.site/stream/jp/jsport_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/RVWm9wGB/j-sports-3-jp.png",J SPORTS 3(hls) 
+http://akariko.netgenx.site/stream/jp/jsport_3/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/bwbjS8KW/j-sports-4-jp.png",J SPORTS 4(hls) 
+http://akariko.netgenx.site/stream/jp/jsport_4/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/hj4FYmfF/golf-network-jp.png",GOLF NETWORK
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/hj4FYmfF/golf-network-jp.png",GOLF NETWORK (hls) 
+http://akariko.netgenx.site/stream/jp/golf_network/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/yYbg1DHs/ezgif-7bc79c4b91703ea2.png",GREEN CHANNEL
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/yYbg1DHs/ezgif-7bc79c4b91703ea2.png",GREEN CHANNEL(hls) 
+http://akariko.netgenx.site/stream/jp/green_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/T1hzdXVs/sky-a-jp.png",SKY A
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/T1hzdXVs/sky-a-jp.png",SKY A(hls) 
+http://akariko.netgenx.site/stream/jp/sky_a/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/qB5fmz0k/gaora-sportspng-jp.png",GAORA SPORTS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ShareExt@Relax",SCTV 22 - SSPORT 1 🇻🇳
 https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
 
@@ -2408,6 +2444,42 @@ http://vipapyenhmw.top:8080/live/brejna/6yGNnFuahuTG/4771.ts
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ MEXICO || SPORTS", SkySports Latino Premier League
+http://jumangis.cloud:2082/Basyco206/mGuUnbrV9p/28380
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ MEXICO || SPORTS",ESPN PREMIUM
+http://jumangis.cloud:2082/Basyco206/mGuUnbrV9p/130945
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ MEXICO || SPORTS",ESPN MEXICO HD
+http://jumangis.cloud:2082/Basyco206/mGuUnbrV9p/117724
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ MEXICO || SPORTS",ESPN 2 HD @
+http://jumangis.cloud:2082/Basyco206/mGuUnbrV9p/117722
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ MEXICO || SPORTS",ESPN 3 COLOMBIA HD
+http://jumangis.cloud:2082/Basyco206/mGuUnbrV9p/117723
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ MEXICO || SPORTS",ESPN 3 MEXICO HD @
+http://jumangis.cloud:2082/Basyco206/mGuUnbrV9p/117726
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ MEXICO || SPORTS",ESPN 4 (MX)
+http://jumangis.cloud:2082/Basyco206/mGuUnbrV9p/154892
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ MEXICO || SPORTS",CLARO SPORTS FULL HD
+http://jumangis.cloud:2082/Basyco206/mGuUnbrV9p/117702
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ MEXICO || SPORTS",TNT SPORTS PREMIUM
+http://jumangis.cloud:2082/Basyco206/mGuUnbrV9p/117757
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ MEXICO || SPORTS",DIRECTV SPORTS HD @
+http://jumangis.cloud:2082/Basyco206/mGuUnbrV9p/117711
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ MEXICO || SPORTS",FOXSPORTS PREMIUM @
+http://jumangis.cloud:2082/Basyco206/mGuUnbrV9p/154295
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ MEXICO || SPORTS",FOXSPORTS MEXICO HD
+http://jumangis.cloud:2082/Basyco206/mGuUnbrV9p/117736
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ MEXICO || SPORTS",FOXSPORTS 2  HD
+http://jumangis.cloud:2082/Basyco206/mGuUnbrV9p/117728
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ MEXICO || SPORTS",FOXSPORTS 3 MEXICO HD @
+http://jumangis.cloud:2082/Basyco206/mGuUnbrV9p/117738
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ MEXICO || SPORTS",WIN +SPORTS FUTBALL HD 
+http://jumangis.cloud:2082/Basyco206/mGuUnbrV9p/117784
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ MEXICO || SPORTS",UFC FIGTH PASS HD
+http://jumangis.cloud:2082/Basyco206/mGuUnbrV9p/117786
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 1" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport1.png" group-title="SHAREEXT@ | PORTUGAL SPORTS",PT: ELEVEN SPORT 1
@@ -2454,6 +2526,63 @@ http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/99494
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",CA: SPORTSNET ONE HD
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/197419
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",CA: SPORTSNET WEST  HD
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/197416
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",CA: SPORTSNET WORLD HD
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/197415
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",CA: SPORTSNET ONTARIO HD (ENGLISH PREMIER LEAGUE)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/354228
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",CA:┃FR┃ SPORTSNET 360 FHD
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/563722
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",CA:┃FR┃ SPORTSNET ONTARIO FHD
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/563721
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",CA:┃FR┃ SPORTSNET PPV
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/563718
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",CA:┃FR┃ NBA TV
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/563715
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",CA: TSN 1 HD
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/197407
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",CA: TSN 2 HD
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/197405
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",CA: TSN 4 HD
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/197402
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",CA: TSN 5 HD
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/197400
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",CA: BEIN SPORTS FHD
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/197470
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",CA:┃FR┃ TVA SPORTS (E)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/629922
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",CA:┃FR┃ TVA SPORTS 2 (E)
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/629920
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",CA:┃FR┃ TVA SPORTS HD
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/563732
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",CA:┃FR┃ TVA SPORTS 2 HD
+http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/563731
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",® TSN 1 HD
+http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/190950
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",® TSN 2 HD
+http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/190951
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",® TSN 3 HD
+http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/190952
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",® TSN 4 HD
+http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/190953
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",® TSN 5 HD
+http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/190954
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",® NBA TV
+http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/190956
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",® SPORTSNET ONE
+http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/190959
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",® SPORTSNET PACIFIC
+http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/190961
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",® The Fight Network
+http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/190880
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",® GAME SHOW NETWORK HD
+http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/190881
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS",® GOLF CHANNEL
+http://bgdc.live:25461/kimmyinny@gmail.com/5852813668/190888
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS", Beinsports (CA)
 http://vipapyenhmw.top:8080/live/brejna/6yGNnFuahuTG/5405.ts
