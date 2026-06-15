@@ -78,6 +78,18 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 #EXTINF:-1 group-title="SHAREEXT@ WORLD_CUP_2026" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-3-al.png",SUPERSPORT 3 (ALB) 
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="SHAREEXT@ WORLD_CUP_2026", Arena Sport 1 Premium HD 
+http://178.253.194.79:10001
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="SHAREEXT@ WORLD_CUP_2026", SPORTV 1 (BR) 
+http://vipapyenhmw.top:8080/live/brejna/6yGNnFuahuTG/4902.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv1.png" group-title="SHAREEXT@ WORLD_CUP_2026",PT: SPORT TV 1
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/99484
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 1" tvg-logo="https://docdog.top/logo/countries/canada/tsn1.png" group-title="SHAREEXT@ WORLD_CUP_2026",CA: TSN 1
+http://vipapyenhmw.top:8080/VIP01881758874935836/b8b40c183edb/5508
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="SHAREEXT@ WORLD_CUP_2026",FR | BEIN SPORTS 1 HD
+http://185.160.192.64:80/mangin15/85784/14170
+
 #EXTINF:-1 group-title="SHAREEXT@ WORLD_CUP_2026" tvg-id="" tvg-name="FS1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png",FS1
 http://41.223.30.230/FOXSPORTS1/index.m3u8
 
