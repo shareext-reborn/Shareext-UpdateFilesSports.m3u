@@ -1,8 +1,12 @@
 
 
 
-#EXTINF:-1 group-title="SHAREEXT@ WORLD_CUP_2026" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png",ELTA SPORT 1 
+#EXTINF:-1 group-title="SHAREEXT@ WORLD_CUP_2026" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png",ELTA SPORT 1 (twn) 
 https://iptv.852851.xyz/l/V46f6o08BGwo1CpYNqSZAZL55DpM6bija9oMQN2452EgR1ivEgrTsNiWt1V2OwFf/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="SHAREEXT@ WORLD_CUP_2026", NOW SPORTS 618(HK) 
+https://iptv.852851.xyz/l/9QYWOQvJSLGud-cWr-2_YUBFYtCTkHS01Ff-Nd0dZFqR-WJARjNamPK44WDkiYgh/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="SHAREEXT@ WORLD_CUP_2026", NOW SPORTS 616
+http://starhub.pro/farhat-3379/67897-913379/745270
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="SHAREEXT@ WORLD_CUP_2026", FS 1 (usa) 
 http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/137437
@@ -43,6 +47,13 @@ http://178.253.194.79:10001
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="SHAREEXT@ WORLD_CUP_2026",FR | BEIN SPORTS 1 HD
 http://185.160.192.64:80/mangin15/85784/14170
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="SHAREEXT@ WORLD_CUP_2026", BEIN SPORTS MAX 1
+http://starhub.pro/farhat-3379/67897-913379/744517
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="SHAREEXT@ WORLD_CUP_2026", BBC 1
+http://tv.cloudcdn.me/live.ts?channelId=4213&uid=4280&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="SHAREEXT@ WORLD_CUP_2026", DSPORTS
+http://185.160.192.64/live/mangin15/85784/465846.ts
 
 #EXTINF:-1 tvg-id="auto.telemundo.us" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="SHAREEXT@ WORLD_CUP_2026",Telemundo (US)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
