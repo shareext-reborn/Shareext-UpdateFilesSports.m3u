@@ -188,6 +188,38 @@ https://tv.media4u.top:443/live/media4u/media4u/499499
 https://tv.media4u.top:443/live/media4u/media4u/847964
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/gkn1JysF/bein-sports-2-qa.png", BEINSPORTS 2 [ID]
 https://tv.media4u.top:443/live/media4u/media4u/300666
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg", HUB SPORTS 1 [SG]
+https://tv.media4u.top:443/live/media4u/media4u/404922
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg", HUB SPORTS 2 [SG]
+https://tv.media4u.top:443/live/media4u/media4u/844806
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg", HUB SPORTS 3 [SG]
+https://tv.media4u.top:443/live/media4u/media4u/645052
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg", HUB SPORTS 4 [SG]
+https://tv.media4u.top:443/live/media4u/media4u/666938
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg", HUB SPORTS 5 [SG]
+https://tv.media4u.top:443/live/media4u/media4u/833597
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg", STARHUB PREMIER 1 [SG]
+https://tv.media4u.top:443/live/media4u/media4u/906938
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg", STARHUB PREMIER 2 [SG]
+https://tv.media4u.top:443/live/media4u/media4u/709486
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg", STARHUBPREMIER 2• [SG]
+https://tv.media4u.top:443/live/media4u/media4u/291085
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg", STARHUB PREMIER 3 [SG]
+https://tv.media4u.top:443/live/media4u/media4u/959522
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg", STARHUB PREMIER 4 [SG]
+https://tv.media4u.top:443/live/media4u/media4u/598123
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg", STARHUB PREMIER 5 [SG]
+https://tv.media4u.top:443/live/media4u/media4u/601445
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", TRUE PREMIERE LEAGUE 1 [TH]
+https://tv.media4u.top:443/live/media4u/media4u/746222
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", TRUE PREMIERE LEAGUE 2 [TH]
+https://tv.media4u.top:443/live/media4u/media4u/362618
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", TRUE PREMIERE LEAGUE 3 [TH]
+https://tv.media4u.top:443/live/media4u/media4u/509913
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", TRUE PREMIERE LEAGUE 4 [TH]
+https://tv.media4u.top:443/live/media4u/media4u/147570
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", TRUE PREMIERE LEAGUE 5 [TH]
+https://tv.media4u.top:443/live/media4u/media4u/648805
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg", BULU KETEK 1 (rolling) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
