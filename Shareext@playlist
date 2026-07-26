@@ -701,6 +701,40 @@ https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mp
 
 
 
+
+#EXTINF:-1 group-title="SHAREEXT@ ARABIAN || SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-qa.png",BEIN SPORTS
+http://line.ottcst.com/live/LiU7iuz1IqYHfcn/R54SY3EJAD/574555.ts
+
+#EXTINF:-1 group-title="SHAREEXT@ ARABIAN || SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png",BEIN SPORTS 1
+http://line.ottcst.com/live/LiU7iuz1IqYHfcn/R54SY3EJAD/618281.ts
+
+#EXTINF:-1 group-title="SHAREEXT@ ARABIAN || SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png",BEIN SPORTS 2
+http://line.ottcst.com/live/LiU7iuz1IqYHfcn/R54SY3EJAD/618280.ts
+
+#EXTINF:-1 group-title="SHAREEXT@ ARABIAN || SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png",BEIN SPORTS 3
+http://line.ottcst.com/live/LiU7iuz1IqYHfcn/R54SY3EJAD/618279.ts
+
+#EXTINF:-1 group-title="SHAREEXT@ ARABIAN || SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png",BEIN SPORTS 4
+http://line.ottcst.com/live/LiU7iuz1IqYHfcn/R54SY3EJAD/618278.ts
+
+#EXTINF:-1 group-title="SHAREEXT@ ARABIAN || SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png",BEIN SPORTS 5
+http://line.ottcst.com/live/LiU7iuz1IqYHfcn/R54SY3EJAD/618277.ts
+
+#EXTINF:-1 group-title="SHAREEXT@ ARABIAN || SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png",BEIN SPORTS 6
+http://line.ottcst.com/live/LiU7iuz1IqYHfcn/R54SY3EJAD/618276.ts
+
+#EXTINF:-1 group-title="SHAREEXT@ ARABIAN || SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png",BEIN SPORTS 7
+http://line.ottcst.com/live/LiU7iuz1IqYHfcn/R54SY3EJAD/618275.ts
+
+#EXTINF:-1 group-title="SHAREEXT@ ARABIAN || SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png",BEIN SPORTS 8
+http://line.ottcst.com/live/LiU7iuz1IqYHfcn/R54SY3EJAD/618274.ts
+
+#EXTINF:-1 group-title="SHAREEXT@ ARABIAN || SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png",BEIN SPORTS 9
+http://line.ottcst.com/live/LiU7iuz1IqYHfcn/R54SY3EJAD/618273.ts
+
+#EXTINF:-1 group-title="SHAREEXT@ ARABIAN || SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-qa.png",BEIN SPORTS XTRA
+https://d9ssxzmclhfo4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t7en7ol3kq3sp/f881b29a-280a-4416-be20-40db0fcc0f07/3.m3u8
+
 #EXTINF:-1 tvg-id="2023 Alkass 1.qa" tvg-logo="https://i.ibb.co.com/YpQ86Qk/kass1.png" group-title="SHAREEXT@ ARABIAN || SPORTS", AL KASS 1
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
@@ -772,10 +806,202 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 
 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=d4b636034b944d7c987871a3fdd25de4:a8294f4899a34cdb9429c49bc531d7d8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/psjtv.jpg" group-title="SHAREEXT@ INDONESIA鈥PORTS",PSJ TV (cubmu)
+https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="beIN.Sports.1.id" tvg-name="beIN Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SHAREEXT@ INDONESIA鈥PORTS",BEIN SPORTS 1 (V+)
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="beIN.Sports.2.id" tvg-name="beIN Sports 2" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports2.jpg" group-title="SHAREEXT@ INDONESIA鈥PORTS",BEIN SPORTS 2 (V+)
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="beIN.Sports.3.id" tvg-name="beIN Sports 3" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports3.jpg" group-title="SHAREEXT@ INDONESIA鈥PORTS",BEIN SPORTS 3 (V+)
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="beIN.SPORTS.4.id" tvg-name="beIN Sports 4" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports4.jpg" group-title="SHAREEXT@ INDONESIA鈥PORTS",BEIN SPORTS 4 (V+)
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="beIN.SPORTS.5.id" tvg-name="beIN Sports 5" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports5.jpg" group-title="SHAREEXT@ INDONESIA鈥PORTS",BEIN SPORTS 5 (V+)
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=c53012b08edf478187064665dde647cb:5390bb924b102d566b9e59afbdc08fab
+#EXTINF:-1 tvg-id="ChampionsGolf1HD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/418.png" group-title="SHAREEXT@ INDONESIA鈥PORTS",CHAMPIONS GOLF 1 HD (XL1)
+https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf1HD/mediampd/ChampionsGolf1HD.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xTASsI7fR4GHBkZl3eZHyw","k":"U5C7kksQLVZrnlmvvcCPqw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ChampionsGolf1HD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/418.png" group-title="SHAREEXT@ INDONESIA鈥PORTS",CHAMPIONS GOLF 1 HD (XL1)
+https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf1HD/mediampd/ChampionsGolf1HD.mpd
+https://atemeshield2-voe.sysln.id/live/eds/ChampionsGolf1HD/mediampd/ChampionsGolf1HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=b2fbd6358a344dcba331c7c91742cd34:ee183e1a1b971b5a2f764c192ae52087
+#EXTINF:-1 tvg-id="ChampionsGolf2HD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/419.png" group-title="SHAREEXT@ INDONESIA鈥PORTS",CHAMPIONS GOLF 2 HD (XL1)
+https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf2HD/mediampd/ChampionsGolf2HD.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Fight.Sports.id" tvg-name="Fight Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/fightsports.jpg" group-title="SHAREEXT@ INDONESIA鈥PORTS",FIGHT SPORTS (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+
+#EXTINF:-1 tvg-id="Fight.Sports.id" tvg-name="Fight Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/fightsports.jpg" group-title="SHAREEXT@ INDONESIA鈥PORTS",FIGHT SPORTS (MAX)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f4c7790660c4a0ea82f38ca1998da13:9186a4ec6c2c2af731de820bf517e4e0
+https://cdnbal1.indihometv.com/atm/DASH/fightsport/fightsport-avc1_2500000=7-3277707030000000.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Soccer.Channel.id" tvg-name="Soccer Channel" tvg-logo="https://mimipipi22.github.io/logo/sports/soccer.jpg" group-title="SHAREEXT@ INDONESIA鈥PORTS",SOCCER CHANNEL
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv.jpg" group-title="SHAREEXT@ INDONESIA鈥PORTS",SPOTV (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="SPOTV.2.id" tvg-name="SPOTV2" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv2.jpg" group-title="SHAREEXT@ INDONESIA鈥PORTS",SPOTV 2 (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Prambors.id" tvg-name="Prambors" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg" group-title="SHAREEXT@ INDONESIA鈥PORTS",MAX SPORT (MAX)
+https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="SHAREEXT@ INDONESIA鈥PORTS" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXStreak_2026_01_30_13_56_10.jpg",MAX STREAK (MAX)
+https://cdnbal1.indihometv.com/atm/DASH/maxstreak/maxstreak-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/maxstreak/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77555ed22f924e4b98620319e1de3739:2876649ccd9840346084c565d25f8f6b
+#EXTINF:-1 tvg-id="FirstWarriors" tvg-name="First Warriors HD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/300.png" group-title="SHAREEXT@ INDONESIA鈥PORTS",FIRST WARRIORS (XL1)
+https://atemeshield2-voe.sysln.id/live/eds/FirstWarriorsHD/mediampd/FirstWarriorsHD.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="WSport.my" tvg-name="WSport" tvg-logo="https://mimipipi22.github.io/logo/sports/wsports.jpg" group-title="SHAREEXT@ INDONESIA鈥PORTS",W-SPORTS 馃嚫馃嚞
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
+https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTINF:-1 tvg-id="Motorvision+.us" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/motorvision.jpg" group-title="SHAREEXT@ INDONESIA鈥PORTS",MOTORVISION+ (DNS)
+https://op-flashcon-digdayahd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/wedotvsports.jpg" group-title="SHAREEXT@ INDONESIA鈥PORTS",WE DO SPORT (DNS)
+https://op-flashcon-digdayahd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&userid=lite&chname=wedoSports
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Sportstars.id" tvg-name="Sportstars 1" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars.jpg" group-title="SHAREEXT@ INDONESIA鈥PORTS",SPORTSTARS
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Sportstars.2.id" tvg-name="Sportstars 2" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars2.jpg" group-title="SHAREEXT@ INDONESIA鈥PORTS",SPORTSTARS 2
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Sportstars.4.id" tvg-name="Sportstars 4" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars4.jpg" group-title="SHAREEXT@ INDONESIA鈥PORTS",SPORTSTARS 4
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
 
 
+
+
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1036490.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS",MY| ASTRO CRICKET HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1036490&extension=ts
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-3.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS",MY| ASTRO Grandstand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571247&extension=ts
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-4.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS",MY| ASTRO Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571246&extension=ts
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-1.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS",MY| ASTRO Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571245&extension=ts
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-2.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS",MY| ASTRO Premier League 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571248&extension=ts
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/554968.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS",MY| ASTRO Sports Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=554968&extension=ts
 
 #EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/DEGZtGq.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS",meWATCH 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
