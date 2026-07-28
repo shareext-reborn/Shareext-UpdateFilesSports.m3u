@@ -11,10 +11,19 @@ https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 https://iptv.852851.xyz/l/V46f6o08BGwo1CpYNqSZAZL55DpM6bija9oMQN2452EgR1ivEgrTsNiWt1V2OwFf/index.m3u8
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/P5RTyt7r/ezgif-8739420ec07149a5.png",ELTA SPORT 2
-https://iptv.852851.xyz/l/7CNmsLfZ6ggTgXSZHogw6Fn60FoEsFvVc1-n-I6ycQ5VvuQMBHZT_vHnJCm0ygwV/index.m3u8
+http://31.43.191.125:8080/live/VIP019301734188047280/7bce5254f13d/34865.ts
+#https://iptv.852851.xyz/l/7CNmsLfZ6ggTgXSZHogw6Fn60FoEsFvVc1-n-I6ycQ5VvuQMBHZT_vHnJCm0ygwV/index.m3u8
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/DZQ99Fxp/ezgif-8f9dbedb092ff151.png",ELTA SPORT 3
-https://iptv.852851.xyz/l/e49EXeqZLc_C9It4BWxN9lqkhAP6TCvdYv36ba6qIFeUyCp-XMdPopA0JeYqpaJk/index.m3u8
+http://31.43.191.125:8080/live/VIP019301734188047280/7bce5254f13d/34866.ts
+#https://iptv.852851.xyz/l/e49EXeqZLc_C9It4BWxN9lqkhAP6TCvdYv36ba6qIFeUyCp-XMdPopA0JeYqpaJk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax", TW: 博斯运动1
+http://31.43.191.125:8080/live/VIP019301734188047280/7bce5254f13d/34884.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax", TW: 博斯无限
+http://31.43.191.125:8080/live/VIP019301734188047280/7bce5254f13d/34885.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax", TW: 博斯高球1
+http://31.43.191.125:8080/live/VIP019301734188047280/7bce5254f13d/34882.ts
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j-sports-1-jp.png",J SPORTS 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=5
@@ -46,11 +55,24 @@ https://haru.charandom.blog/stream/jp/fighting_tv_samurai/stream-output.m3u8?mod
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/C5WQwnLy/sports-live-plus-jp.png",SPORT LIVE +
 https://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax", RCTI•VIP
+http://31.43.191.125:8080/live/VIP019301734188047280/7bce5254f13d/34322.ts
+#EXTINF:-1 tvg-name="INDOSIAR HD" tvg-logo="http://ogietv.biz.id:80/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvOA1ll2ZY1xe2W8P4YvPUVhmLQHrxTQEaiBgGkBnDhKTsO-39ewCeLXWzBIpuOlRoWZfCaWcA5uEipVe0SZBmnnruXplwj1dHjSW4-MXwAe64JoypQicAAd9h2hq_KxDsw.png" group-title="ShareExt@Relax",INDOSIAR•VIP
+http://31.43.191.125:8080/live/VIP019301734188047280/7bce5254f13d/34327.ts
 #EXTINF:-1 tvg-name="INDOSIAR HD" tvg-logo="http://ogietv.biz.id:80/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvOA1ll2ZY1xe2W8P4YvPUVhmLQHrxTQEaiBgGkBnDhKTsO-39ewCeLXWzBIpuOlRoWZfCaWcA5uEipVe0SZBmnnruXplwj1dHjSW4-MXwAe64JoypQicAAd9h2hq_KxDsw.png" group-title="ShareExt@Relax",INDOSIAR~HD
 http://line.crystalott.net/live/MVQIT3BOBS/LQPDWSNYNZ/1179182.ts
 
 #EXTINF:-1 tvg-name="INDOSIAR HD" tvg-logo="http://ogietv.biz.id:80/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvOA1ll2ZY1xe2W8P4YvPUVhmLQHrxTQEaiBgGkBnDhKTsO-39ewCeLXWzBIpuOlRoWZfCaWcA5uEipVe0SZBmnnruXplwj1dHjSW4-MXwAe64JoypQicAAd9h2hq_KxDsw.png" group-title="ShareExt@Relax",INDOSIAR~FHD
 http://rjcf.ofztvxv.top:8080/live/vip4111774539023/b2cd7c34176f/34327.ts
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"x_Up3sy_Zwnj5lxhyNE0Tw","kid":"qx_pnk5PTL6VkwsxVMH7GQ"},{"kty":"oct","k":"NAR5LLTIBJAqzcbKZcGimA","kid":"04YAEhVZQEOomV23lq2enA"},{"kty":"oct","k":"EW5AFKZi_vTqXXZx3VEg2A","kid":"k9W5-dXRTxWxupWC8zLR_A"},{"kty":"oct","k":"2_3Alnz7vtAdunMMmdnBSg","kid":"wwBFZTZaQtCOO945pRbWTg"},{"kty":"oct","k":"5FsGo4zSYbdMUWDwkSwELw","kid":"JRw4ToRoQauvoffHI9V-Zg"},{"kty":"oct","k":"DeGBmeuzMW467YUp45VCtw","kid":"dk5yaiNKQ1yHqC5KHaammw"},{"kty":"oct","k":"MYBbPA0DCA-e0zQRJY5brw","kid":"eEd9IVaUS3yzV2KkeXOqnA"},{"kty":"oct","k":"yuEazOvjynU1FB019NQaHQ","kid":"Ir0AFgkBQ_eVonVimm56Cg"},{"kty":"oct","k":"WIoiFL-5H8AVC5rCp0XO-A","kid":"kd7G_Z_YS4earMAnv1MnkA"},{"kty":"oct","k":"TG-bFd-rKhabK3ikmMTXfQ","kid":"A26F3gu0SO6yHTmrMA2kjg"},{"kty":"oct","k":"HWaTvJQvA2BT_Bw8OztQMg","kid":"6rZnqPfxT_e_ANeQMUoQ8A"},{"kty":"oct","k":"mil78iAO7n3uIbms6fV8dw","kid":"juffFf9YSWej63uIW6_HHg"},{"kty":"oct","k":"UJKUkRrDwtd5riIlojRgtA","kid":"xkSTFV2LRDyDShPUlwz4NA"},{"kty":"oct","k":"Zzd7jUKWA_i_MMFhvaJp5Q","kid":"QDUyOn_mR2erjzNF7ZuTvg"},{"kty":"oct","k":"Tp15VML_RnWSidpPyfAY6g","kid":"OcTcZwTPTO6i_UhjuI2KfQ"},{"kty":"oct","k":"CK7FSKhRumS3Fyrn8Fy5HA","kid":"kR5yrfNpRq-9u0-AeCqDlA"},{"kty":"oct","k":"M3e-bDtfaI6-1ocxLJudlQ","kid":"tXbl9fG8TLqoZuWw-s5aMA"},{"kty":"oct","k":"F0YqdHOa4NmFVwX_wsDhtQ","kid":"MZf39QhsQxWvK3qUvJIByw"},{"kty":"oct","k":"Zx4k_Y0jTH842FBVgV-QKg","kid":"FTnwQySeQT2RkGA28wWDHg"},{"kty":"oct","k":"FCRz7pJdsNsAg8dKF4yCmA","kid":"OuakMMG4Qg6igOMXFD2NOg"},{"kty":"oct","k":"2-StaAPnRzm4-VTSPMWOew","kid":"PXVtVmypTmSZUY_7FHTV0A"},{"kty":"oct","k":"JGzG7nqyNcuCTtO5BLcECw","kid":"NE0yDKRWQaiM8ALbNR7ZpA"},{"kty":"oct","k":"uVyRlAjux2YyFKmmevgxug","kid":"rvGCMXetQBmd5EBQTZkq1Q"},{"kty":"oct","k":"2q0K6xZbmia3BvKiYbj6_g","kid":"xIyOSNuiRCC13O-fW4R7Eg"},{"kty":"oct","k":"YWndBCu15Z1wknK2FAEbuw","kid":"qgDzIPBiR9yvjjzqH7B_RA"},{"kty":"oct","k":"g5vfTxUjZhumHfLcIZh4ow","kid":"NA_yQf91SwOPBwluFxBM3A"},{"kty":"oct","k":"zhvjrDLH5mLhfDzInO4CqQ","kid":"nkYXCz3DRwaV09SSoqFB-w"},{"kty":"oct","k":"mKCDCF0OXWvADC0hsgUplg","kid":"Xqi2b3MKQCu9JttuESlU8g"},{"kty":"oct","k":"49yVmwYtPCYfBiTl73gXrQ","kid":"wYGZPPhSRC2WW6K3NY25aQ"},{"kty":"oct","k":"zEsOQqxmQFe0_tBiWh9Xqg","kid":"MLilhjN4RhaELWzZ5mzYpA"},{"kty":"oct","k":"Re8xrXfLFKKaCw02dM8w4Q","kid":"mJWrZrfkTw2JG53u4r8SZA"},{"kty":"oct","k":"2ItnJ5Uk0mmE-cAEFEK1xg","kid":"weWmcTrMR3SmItARdyJAlA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="ShareExt@Relax",INDOSIAR (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -60,13 +82,6 @@ http://rjcf.ofztvxv.top:8080/live/vip4111774539023/b2cd7c34176f/34327.ts
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="ShareExt@Relax",INDOSIAR (VDO)
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="ShareExt@Relax",INDOSIAR (V+)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/pdBP8nkd/ezgif-8520dcdbeeb04407.png",MAX EATS
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
