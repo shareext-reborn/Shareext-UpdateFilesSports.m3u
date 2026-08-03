@@ -50,10 +50,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=5
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=5
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/fbZ13d7L/fighting-tv-samurai-jp.png",FIGHTING TV SAMURAI!
-https://haru.charandom.blog/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/C5WQwnLy/sports-live-plus-jp.png",SPORT LIVE +
-https://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax", RCTI•VIP
 http://31.43.191.125:8080/live/VIP019301734188047280/7bce5254f13d/34322.ts
@@ -1357,6 +1357,41 @@ http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/4828
 
 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ MEXICO ∆ SPORTS", MX: Adrenalina Sports Network
+http://bgdc.live:25461/joak18@yahoo.com/5643956/215097
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ MEXICO ∆ SPORTS", MX: ESPN
+http://bgdc.live:25461/joak18@yahoo.com/5643956/215146
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ MEXICO ∆ SPORTS", MX: ESPN 2
+http://bgdc.live:25461/joak18@yahoo.com/5643956/215147
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ MEXICO ∆ SPORTS", MX: ESPN 3
+http://bgdc.live:25461/joak18@yahoo.com/5643956/215148
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ MEXICO ∆ SPORTS", MX: ESPN 4 HD
+http://bgdc.live:25461/joak18@yahoo.com/5643956/215149
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ MEXICO ∆ SPORTS", MX: TVC DEPORTES
+http://bgdc.live:25461/joak18@yahoo.com/5643956/215151
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ MEXICO ∆ SPORTS", MX: TVC DEPORTES 2
+http://bgdc.live:25461/joak18@yahoo.com/5643956/215162
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ MEXICO ∆ SPORTS", MX: Fox Sports
+http://bgdc.live:25461/joak18@yahoo.com/5643956/215155
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ MEXICO ∆ SPORTS", MX: Fox Sports 2
+http://bgdc.live:25461/joak18@yahoo.com/5643956/215156
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ MEXICO ∆ SPORTS", MX: Fox Sports 3
+http://bgdc.live:25461/joak18@yahoo.com/5643956/215157
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ MEXICO ∆ SPORTS", MX: Fox Sports Premium
+http://bgdc.live:25461/joak18@yahoo.com/5643956/215158
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ MEXICO ∆ SPORTS", MX: Golf Channel
+http://bgdc.live:25461/joak18@yahoo.com/5643956/215166
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ MEXICO ∆ SPORTS", MX | CLARO SPORTS
+http://bgdc.live:25461/joak18@yahoo.com/5643956/215175
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ MEXICO ∆ SPORTS", MX: TUDN
+http://bgdc.live:25461/joak18@yahoo.com/5643956/215218
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ MEXICO ∆ SPORTS", ADRENALINA SPORTS NETWORK
 http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/5106
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ MEXICO ∆ SPORTS", AYM SPORTS
@@ -1869,9 +1904,9 @@ http://fr5k.com:8080/9936568318240943/9936568318240943/195111
 http://fr5k.com:8080/9936568318240943/9936568318240943/195112
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ITALY•SPORTS", SKY SPORT SERIE A FHD
 http://fr5k.com:8080/9936568318240943/9936568318240943/195116
-#EXTINF:-1,|IT| SKY SPORT 251 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ITALY•SPORTS", SKY SPORT 251 HD
 http://fr5k.com:8080/9936568318240943/9936568318240943/195119
-#EXTINF:-1,|IT| SKY SPORT 252 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ITALY•SPORTS", SKY SPORT 252 HD
 http://fr5k.com:8080/9936568318240943/9936568318240943/195121
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ITALY•SPORTS", SKY SPORT 253 HD
 http://fr5k.com:8080/9936568318240943/9936568318240943/195123
@@ -1879,9 +1914,9 @@ http://fr5k.com:8080/9936568318240943/9936568318240943/195123
 http://fr5k.com:8080/9936568318240943/9936568318240943/195125
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ITALY•SPORTS", DAZN 1 SAT FHD
 http://fr5k.com:8080/9936568318240943/9936568318240943/195149
-#EXTINf:;-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ITALY•SPORTS", FHD
+#EXTINf:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ITALY•SPORTS", DAN 2 FHD
 http://fr5k.com:8080/9936568318240943/9936568318240943/195153
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ITALY•SPORTS", FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ITALY•SPORTS", DAN 3 FHD
 http://fr5k.com:8080/9936568318240943/9936568318240943/195154
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ITALY•SPORTS", |IT| DAZN SPORT 4 FHD
 http://fr5k.com:8080/9936568318240943/9936568318240943/195155
