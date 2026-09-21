@@ -10,17 +10,22 @@ https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR
 http://aflaxtv.xyz:8080/live/F33848/cbd9779b/162138.ts
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR_VIP
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34327
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34327.ts
+##http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34327
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/J7Z0hB2q/ezgif-84287ddb8ead5208.png",ELTA SPORT 1
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/P5RTyt7r/ezgif-8739420ec07149a5.png",ELTA SPORT 2
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34865
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34865.ts
+##http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34865
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/DZQ99Fxp/ezgif-8f9dbedb092ff151.png",ELTA SPORT 3
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34866
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34866.ts
+##http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34866
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg", HUB•SPORT 1 (SGP)
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34778
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34778.ts
+##http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34778
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg", HUB•SPORT 2 (SGP)
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34777
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34777.ts
+##http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34777
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://mimipipi22.github.io/logo/sports/champions6.jpg", CHAMPIONS 6
 http://aflaxtv.xyz:8080/live/F33848/cbd9779b/146068.ts
@@ -697,48 +702,69 @@ https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mp
 
 
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports1.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BEIN SPORTS 1
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/841
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BEIN SPORTS 1
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/841.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/841
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports2.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BEIN SPORTS 2
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/842
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/842.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/842
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports3.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BEIN SPORTS 3
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/843
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/843.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/843
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports4.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BEIN SPORTS 4
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/844
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/844.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/844
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports5.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BEIN SPORTS 5
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/845
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/845.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/845
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BEIN SPORTS 6
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/846
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/846.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/846
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BEIN SPORTS 7
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/847
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/847.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/847
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BEIN SPORTS PREMIUM 1
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/853
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/853.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/853
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BEIN SPORTS PREMIUM 2
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/854
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/854.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/854
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BEIN SPORTS PREMIUM 3
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/855
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/855.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/855
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BEIN SPORTS MAX 1
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/835
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/835.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/835
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BEIN SPORTS MAX 2
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/836
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/836.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/836
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BEIN SPORTS MAX 3
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/837
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/837.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/837
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BEIN SPORTS MAX 4
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/838
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/838.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/838
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BEIN SPORTS MAX 6
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/840
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/840.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/840
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BEIN SPORTS ENG 1
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/848
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/848.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/848
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BEIN SPORTS ENG 2
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/849
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/849.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/849
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BEIN SPORTS ENG 3
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/850
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/850.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/850
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BEIN SPORTS NBA
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/851
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/851.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/851
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BEIN SPORTS NEWS
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/852
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/852.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/852
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BEIN SPORTS XTRA 1
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/856
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/856.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/856
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="SHAREEXT@ ARABIAN || SPORTS",Bahrain Sports 1
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
@@ -761,119 +787,176 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: OSN WWE
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6514
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6514.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6514
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: AL KASS 1
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6600
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6600.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6600
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: AL KASS 2
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6601
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6601.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6601
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: AL KASS 3
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6602
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6602.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6602
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: AL KASS 4
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6603
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6603.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6603
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: AL KASS 5
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6604
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6604.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6604
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: JORDAN SPORT
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6558
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6558.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6558
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: PALESTINE SPORT
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6550
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6550.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6550
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: IRAQIA SPORT
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6578
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6578.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6578
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: NILE SPORT
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6685
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6685.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6685
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: ON TIME SPORTS 1
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6694
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6694.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6694
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: ON TIME SPORTS 2
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6703
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6703.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6703
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: ON TIME SPORTS 3
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6702
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6702.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6702
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: SAUDI SPORT
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6713
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6713.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6713
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: SAUDI SPORT 2
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6714
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6714.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6714
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: KSA SPORT 1
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6718
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6718.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6718
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: KSA SPORT 2
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6719
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6719.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6719
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: KSA SPORT 3
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6720
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6720.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6720
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: KSA SPORT 4
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6721
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6721.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6721
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: SSC SPORT 1
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6763
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6763.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6763
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: SSC SPORT 2
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6764
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6764.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6764
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: SSC SPORT 3
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6765
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6765.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6765
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: KUWAIT SPORT
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6801
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6801.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6801
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: KUWAIT SPORT PLUS
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6802
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6802.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6802
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: DUBAI RACING 1
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6819
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6819.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6819
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: DUBAI RACING 2
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6820
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6820.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6820
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: DUBAI RACING 3
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6821
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6821.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6821
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: DUBAI SPORT 1
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6822
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6822.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6822
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: DUBAI SPORT 2
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6823
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6823.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6823
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: DUBAI SPORT 3
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6824
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6824.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6824
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BAHRAIN SPORT 1
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6856
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6856.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6856
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: BAHRAIN SPORT 2
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6857
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6857.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6857
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: SUDAN SPORT
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6862
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6862.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6862
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: LIBYA SPORT TV HD
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6880
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6880.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6880
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: AD SPORT 1
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6892
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6892.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6892
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: AD SPORT 2
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6893
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6893.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6893
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: SHARJAH SPORT
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6913
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6913.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6913
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: ZAMALEK SPORT
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6917
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6917.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6917
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: AD SPORTS PREMIUM 1
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6920
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6920.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6920
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: AD SPORTS PREMIUM 2
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6919
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6919.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6919
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: AD SPORTS 1 ASIA
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6922
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6922.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6922
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: AD SPORTS 2 ASIA
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6921
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/6921.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/6921
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR: YAS SPORT
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/7048
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/7048.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/7048
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR-UAE: DUBAI SPORT 1
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/130646
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/130646.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/130646
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR-UAE: DUBA SPORT 2
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/130641
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/130641.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/130641
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR-UAE: DUBAI SPORT 3
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/130647
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/130647.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/130647
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR|SPORT: AL AHLY SPORTS HD
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/131034
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/131034.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/131034
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR|SPORT: ARRYADIA HD
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/131036
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/131036.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/131036
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR|SPORT: BAHRAIN 1
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/131037
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/131037.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/131037
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR|SPORT: BAHRAIN SPORT 2
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/131038
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/131038.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/131038
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR|SPORT: KSA SPORT 1
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/131048
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/131048.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/131048
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR|SPORT: KSA SPORT 2
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/131049
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/131049.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/131049
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR|SPORT: KSA SPORT 3
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/131050
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/131050.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/131050
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR|SPORT: KSA SPORT 4
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/131051
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/131051.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/131051
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR|SPORT: Saudia Sport 24 HD
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/131061
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/131061.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/131061
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR|SPORT: YAS RACING
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/131065
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/131065.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/131065
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ ARABIAN || SPORTS", AR|SPORT: ZAMALEK SPORTS HD
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/131066
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/131066.ts
+#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/131066
 
 
 
