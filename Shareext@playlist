@@ -1557,7 +1557,15 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/monomax-sports-th.png" group-title="SHAREEXT@ PH ∆ THAILAND ➾ Sports", MONOMAX SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thairath-tv-32-th.png" group-title="SHAREEXT@ PH ∆ THAILAND ➾ Sports", THAIRATH TV 32 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-7-th.png" group-title="SHAREEXT@ PH ∆ THAILAND ➾ Sports", T SPORTS 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1692,7 +1700,16 @@ http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 
 
 
+#EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-logo="https://i.postimg.cc/fTBvQwdj/ezgif-37e9f136ce2f9125.png",MATCH!
+http://stream.mcquack.net/169/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1&token=9139b6e5516f06cc232bb88c46b5d323
+http://stream.mcquack.net/169/index.m3u8
 
+#EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-logo="https://www.lyngsat.com/logo/tv/mm/match-boets-ru.png",MATCH! BOETS
+http://stream.mcquack.net/112/index.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-logo="https://i.postimg.cc/vTmdqYfR/ezgif-358c65edc68ea150.png",MATCH! IGRA
+http://stream.mcquack.net/188/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1&token=d8537bd7b90e61fcbd8b30cfc5167547
+http://stream.mcquack.net/188/index.m3u8
 
 #EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-logo="https://i.ibb.co.com/qJJrHJb/Rusia-Sport-Share-Ext.jpg", Infosport+
 http://151.80.18.177:86/Infosport+_HD/index.m3u8
