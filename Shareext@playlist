@@ -342,6 +342,12 @@ http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34778.ts
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg", HUB•SPORT 2 (SGP)
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34777.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="UK: HUB SPORTS 1" tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier1.png" group-title="ShareExt@Relax",UK: HUB SPORTS 1
+http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/146827
+#EXTINF:-1 tvg-id="" tvg-name="UK: HUB SPORTS 2" tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier2.png" group-title="ShareExt@Relax",UK: HUB SPORTS 2
+http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/146826
+#EXTINF:-1 tvg-id="" tvg-name="UK: HUB SPORTS 3" tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier3.png" group-title="ShareExt@Relax",UK: HUB SPORTS 3
+http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/146825
 
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1" tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier1.png" group-title="ShareExt@Relax",Hub Premier 1
 http://fixtv.shop:888/yusman18/yusman1234/19471
