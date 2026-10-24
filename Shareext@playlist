@@ -334,9 +334,9 @@ http://202.150.161.212:5000/live/channel39/playlist.m3u8
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/J7Z0hB2q/ezgif-84287ddb8ead5208.png",ELTA SPORT 1
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/P5RTyt7r/ezgif-8739420ec07149a5.png",ELTA SPORT 2
-http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34865.ts
+
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/DZQ99Fxp/ezgif-8f9dbedb092ff151.png",ELTA SPORT 3
-http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34866.ts
+
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg", HUB•SPORT 1 (SGP)
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34778.ts
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg", HUB•SPORT 2 (SGP)
@@ -652,69 +652,23 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",StrongmanChampionLeague
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
 
-#EXTINF:-1 group-title="SHAREEXT@ SKYSPORTS" tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png", SKYSPORTS FOOTBALL (cloud) (UK)
-http://tv.cloudcdn.me/live.ts?channelId=308&uid=10223&deviceMac=00:1A:79:07:07:43
-#EXTINF:-1 group-title="SHAREEXT@ SKYSPORTS" tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png", SKYSPORTS PREMIER LEAGUE (cloud) (UK)
-http://tv.cloudcdn.me/live.ts?channelId=286&uid=10223&deviceMac=00:1A:79:07:07:43
-
-#EXTINF:-1 group-title="SHAREEXT@ SKYSPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-24-it.png",SKY SPORT 24 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/2101303.m3u8
-
-#EXTINF:-1 group-title="SHAREEXT@ SKYSPORTS" tvg-logo="https://i.postimg.cc/Pqf9m45r/ezgif-89578ec66e59c541.png",SKY SPORT MOTO GP (prem)
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/388.m3u8
-
-#EXTINF:-1 group-title="SHAREEXT@ SKYSPORTS" tvg-logo="https://i.postimg.cc/gJTNF83P/sky-sport-f1-de.png",SKY SPORT F1
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/gJTNF83P/sky-sport-f1-de.png",SKY SPORT F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=MrQin7S7T60B0aVtIWktUQ&e=2074182008&scheme=https
 
-#EXTINF:-1 group-title="SHAREEXT@ SKYSPORTS" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportpl.png",SKY SPORT PREMIER LEAGUE
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportpl.png",SKY SPORT PREMIER LEAGUE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=qd2MUJx2uKe8vQ1n81yoEA&e=2088940274&scheme=https
 
-#EXTINF:-1 group-title="SHAREEXT@ SKYSPORTS" tvg-logo="https://i.postimg.cc/8zmZBW81/ezgif-379c7d6bbef087f7.png",SKY SPORTS GOLF
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/8zmZBW81/ezgif-379c7d6bbef087f7.png",SKY SPORTS GOLF
 https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=KZFhCRiUQckRYG9a41JAHw&e=2075227990&scheme=https
 
-#EXTINF:-1 group-title="SHAREEXT@ SKYSPORTS" tvg-logo="https://i.postimg.cc/Y0Q62KML/ezgif-305703527d0c86a6.png",SKY SPORTS+ (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1102895.m3u8
 
-#EXTINF:-1 group-title="SHAREEXT@ SKYSPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png",SKY SPORT BUNDESLIGA (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1904936.m3u8
 
-#EXTINF:-1 group-title="SHAREEXT@ SKYSPORTS" tvg-logo="https://i.postimg.cc/52YkkbDg/ezgif-4ed6452fcb78d420.png",SKY SPORTS MIX (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1955447.m3u8
 
-#EXTINF:-1 group-title="SHAREEXT@ SKYSPORTS" tvg-logo="https://i.postimg.cc/RZgCDCfn/ezgif-2da5a2febdc3d686.png",SKY NEWS (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/205904.m3u8
 
-#EXTINF:-1 group-title="SHAREEXT@ SKYSPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-1-nz.png",SKY SPORT 1 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/579826.m3u8
 
-#EXTINF:-1 group-title="SHAREEXT@ SKYSPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-2-nz.png",SKY SPORT 2 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/579825.m3u8
 
-#EXTINF:-1 group-title="SHAREEXT@ SKYSPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-3-nz.png",SKY SPORT 3 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/579824.m3u8
-
-#EXTINF:-1 group-title="SHAREEXT@ SKYSPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-4-nz.png",SKY SPORT 4 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/579823.m3u8
-
-#EXTINF:-1 group-title="SHAREEXT@ SKYSPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-5-nz.png",SKY SPORT 5 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/579822.m3u8
-
-#EXTINF:-1 group-title="SHAREEXT@ SKYSPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-6-nz.png",SKY SPORT 6 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/579821.m3u8
-
-#EXTINF:-1 group-title="SHAREEXT@ SKYSPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-7-nz.png",SKY SPORT 7 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/579820.m3u8
-
-#EXTINF:-1 group-title="SHAREEXT@ SKYSPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-8-nz.png",SKY SPORT 8 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/579819.m3u8
-
-#EXTINF:-1 group-title="SHAREEXT@ SKYSPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-9-nz.png",SKY SPORT 9 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/579818.m3u8
-
-#EXTINF:-1 group-title="SHAREEXT@ SKYSPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-select-nz.png",SKY SPORT SELECT (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/579817.m3u8
 
 
 
