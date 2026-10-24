@@ -308,19 +308,16 @@ http://aflaxtv.xyz:8080/live/F33848/cbd9779b/162138.ts
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34327.ts
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR_restream
 http://31.43.191.125:8080/live/restream/restream/34327.ts
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR_vip.2
+http://31.43.191.125:8080/live/vip9781785523997/cf645f65dca1/34327.ts
 
 
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/KvbHDrcf/indosiar-id.png",INDOSIAR (8k)
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/KvbHDrcf/indosiar-id.png",INDOSIAR (golden)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1965312.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/mr5QpD3T/ezgif-1-5b5ec93378.png",MOJI (8k)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1965321.m3u8
+http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj3JPn4MUBmM1_VZHEOWgdWmxHXhsgKsiAMMiYYVXLHck
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR (ktp)
-http://ktpremium.world:2095/live/oc100138/3826778900/73617.m3u8
+##http://ktpremium.world:2095/live/oc100138/3826778900/73617.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -362,44 +359,14 @@ http://tv.cloudcdn.me/live.ts?channelId=129133&uid=10223&deviceMac=00:1A:79:07:0
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 7 (cloud) 
 http://tv.cloudcdn.me/live.ts?channelId=129134&uid=10223&deviceMac=00:1A:79:07:07:43
 
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-1-th.png",TRUE SPORTS 1 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1776200.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/L84vF6vm/true-sports-2-th.png",TRUE SPORTS 2 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1776192.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-3-th.png",TRUE SPORTS 3 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1776202.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png",PREMIER LEAGUE TV (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1847707.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png",SPOTV (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1965328.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png",SPOTV2 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1965327.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-my.png",ASTRO PREMIER LEAGUE (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1163684.m3u8
-
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-2-my.png",ASTRO PREMIER LEAGUE 2 (cloud)
 http://tv.cloudcdn.me/live.ts?channelId=93740&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-grandstand-my.png",ASTRO GRANDSTAND (cloud)
 http://tv.cloudcdn.me/live.ts?channelId=93741&uid=10223&deviceMac=00:1A:79:07:07:43
 
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-football-my.png",ASTRO FOOTBALL (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1920383.m3u8
-
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-grandstand-my.png",ASTRO GRANDSTAND (cloud)
 http://tv.cloudcdn.me/live.ts?channelId=93741&uid=10223&deviceMac=00:1A:79:07:07:43
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-football-my.png",ASTRO 30 (8k) 
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1920380.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-sports-plus-2-my.png",ASTRO SPORTS PLUS (8k) 
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1920386.m3u8
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-badminton-my.png",ASTRO BADMINTON (cloud)
 http://tv.cloudcdn.me/live.ts?channelId=133049&uid=10223&deviceMac=00:1A:79:07:07:43
@@ -427,73 +394,8 @@ http://tv.cloudcdn.me/live.ts?channelId=93748&uid=10223&deviceMac=00:1A:79:07:07
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png",BEIN SPORTS 2 (cloud)
 http://tv.cloudcdn.me/live.ts?channelId=133114&uid=10223&deviceMac=00:1A:79:07:07:43
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png",BEIN SPORTS 3 (8k) 
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1163886.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png",(ARB) BEIN SPORTS 1
-http://z79ip.afcon.fan/live/shref-elbeshbehy2/qkWR9OAEYo/368411.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png",(ARB) BEIN SPORTS 2
-http://z79ip.afcon.fan/live/shref-elbeshbehy2/qkWR9OAEYo/368410.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png",(ARB) BEIN SPORTS 3
-http://z79ip.afcon.fan/live/shref-elbeshbehy2/qkWR9OAEYo/368409.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png",(ARB) BEIN SPORTS 4
-http://z79ip.afcon.fan/live/shref-elbeshbehy2/qkWR9OAEYo/368408.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png",(ARB) BEIN SPORTS 5
-http://z79ip.afcon.fan/live/shref-elbeshbehy2/qkWR9OAEYo/368407.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png",(ARB) BEIN SPORTS 6
-http://z79ip.afcon.fan/live/shref-elbeshbehy2/qkWR9OAEYo/368390.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png",(ARB) BEIN SPORTS 7
-http://z79ip.afcon.fan/live/shref-elbeshbehy2/qkWR9OAEYo/368419.m3u8
-
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png",(ARB) BEIN SPORTS 8
 http://z79ip.afcon.fan/live/shref-elbeshbehy2/qkWR9OAEYo/368418.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/MZrXNW9W/ezgif-57587cff1d53c25d.png",HUB SPORTS 1 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/280827.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/N0J5tBQK/ezgif-5149382493d7d886.png",HUB SPORTS 2 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/280828.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/gkKW6s10/ezgif-52ce9dabeb284bc2.png",HUB SPORTS 3 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/280829.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/zfb6pF2T/ezgif-5a8217c4c2d57193.png",HUB SPORTS 4 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/280830.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/SRyZ06dX/ezgif-5d8854dd37a68a14.png",HUB SPORTS 5 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/280831.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/hGszyVJ7/ezgif-51f1d228973424c5.png",HUB PREMIER 1 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/264396.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/3R6wV1YP/ezgif-59db78b6e31298f0.png",HUB PREMIER 2 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/264397.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/mkHYhVjR/ezgif-5436d8b5aa443574.png",HUB PREMIER 3 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/264398.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/W12ZPsBP/ezgif-5c91f29f67e41056.png",HUB PREMIER 4 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/264399.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/4xLYkVvt/ezgif-5420cd2a35aedeeb.png",HUB PREMIER 5 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/264400.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/jdR2DZZF/ezgif-5bb19f4e9cc1aa33.png",HUB PREMIER 6 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/264401.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/yY661W8j/ezgif-5e11ac99172a013e.png",HUB PREMIER 7 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/264402.m3u8
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/X7wVkFDv/ezgif-5cb535d3cb8b690e.png",HUB PREMIER 8 (8k)
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/264403.m3u8
-
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/MTMgzDH1/fox-sports-mexico-us-mx.png",FOX SPORTS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
