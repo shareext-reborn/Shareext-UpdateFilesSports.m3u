@@ -2567,18 +2567,6 @@ http://qwerty365.live:80/Rabah101961/ce2Qx77/3863
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS",Infosport+ 
-http://151.80.18.177:86/Infosport+_HD/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS",Euro Sport HD 
-http://151.80.18.177:86/Eurosport_HD/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS",Euro Sport 2 HD 
-http://151.80.18.177:86/Eurosport_2_HD/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS",USA_NFL_NETWORK 
-http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS",USA_NBA 
-http://23.237.104.106:8080/USA_NBA/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS",USA_ESPNU 
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS",DAZN1 
 http://50.7.120.34:8080/DAZN1/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS",DAZN_2 
@@ -2612,15 +2600,6 @@ http://stream.mcquack.net/130/index.m3u8
 #EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-logo="https://i.postimg.cc/G3ZCJC9R/ezgif-3acf9ac4ad04b50e.png",MATCH! FUTBOL 2
 http://stream.mcquack.net/142/index.m3u8
 
-#EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-logo="https://i.postimg.cc/T3VHb85g/ezgif-35c33702c15c66cc.png",MATCH! FUTBOL 3
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/231519.m3u8
-
-#EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-logo="https://www.lyngsat.com/logo/tv/mm/match-premier-ru.png",MATCH! PREMIER
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/231522.m3u8
-
-#EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-logo="https://www.lyngsat.com/logo/tv/mm/match-strana-ru.png",MATCH! ARENA
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/231523.m3u8
-
 #EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_planeta.png",MATCH! PLANETA
 https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
 
@@ -2634,13 +2613,6 @@ http://stream.mcquack.net/112/index.m3u8
 #EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-logo="https://i.postimg.cc/vTmdqYfR/ezgif-358c65edc68ea150.png",MATCH! IGRA
 http://stream.mcquack.net/188/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1&token=d8537bd7b90e61fcbd8b30cfc5167547
 http://stream.mcquack.net/188/index.m3u8
-
-#EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-logo="https://i.ibb.co.com/qJJrHJb/Rusia-Sport-Share-Ext.jpg", Infosport+
-http://151.80.18.177:86/Infosport+_HD/index.m3u8
-#EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-logo="https://i.ibb.co.com/qJJrHJb/Rusia-Sport-Share-Ext.jpg", Euro Sport HD
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-logo="https://i.ibb.co.com/qJJrHJb/Rusia-Sport-Share-Ext.jpg", Euro Sport 2 HD
-http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 
 #EXTINF:-1 group-title="SHAREEXT@RUSIA_Спортивні" tvg-logo="https://i.ibb.co.com/qJJrHJb/Rusia-Sport-Share-Ext.jpg",Окко Спорт
 http://ua.online24.pm/play/7337/350B326FB34F4B8/video.m3u8
