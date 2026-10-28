@@ -145,6 +145,26 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #EXTINF:-1 tvg-id="beIN.SPORTS.5.id" tvg-name="beIN Sports 5" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports5.jpg" group-title="ShareExt@Relax",BEIN SPORTS 5 (V+)
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://abestreaming.com/logo/fixtv/RCTI.png" group-title="ShareExt@Relax",RCTI (fix)
+http://fixtv.shop:888/live/yusman18/yusman1234/159.m3u8
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://abestreaming.com/logo/fixtv/RCTI.png" group-title="ShareExt@Relax", ID: RCTI HD
+https://filex.me:8443/live/1234567/7654321/302297.ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1&type=drm
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -269,7 +289,7 @@ http://roch.ph/bongao/bongao/86.m3u8
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="http://www.lyngsat.com/logo/tv/ss/solar_sports_network.png",SOLAR SPORTS
 http://roch.ph/bongao/bongao/91.m3u8
 
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/HnLRbbCc/bein-sports-1-qa-fr.png",BEIN SPORTS 1
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/HnLRbbCc/bein-sports-1-qa-fr.png",BEIN SPORTS 1 (mpd)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -277,7 +297,7 @@ http://roch.ph/bongao/bongao/91.m3u8
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/gkn1JysF/bein-sports-2-qa.png",BEIN SPORTS 2
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/gkn1JysF/bein-sports-2-qa.png",BEIN SPORTS 2 (mpd)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -285,7 +305,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/pdtSqwHV/bein-sports-3-qa.png",BEIN SPORTS 3
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/pdtSqwHV/bein-sports-3-qa.png",BEIN SPORTS 3 (mpd)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -390,12 +410,54 @@ http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/146826
 #EXTINF:-1 tvg-id="" tvg-name="UK: HUB SPORTS 3" tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier3.png" group-title="ShareExt@Relax",UK: HUB SPORTS 3
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/146825
 
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1" tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier1.png" group-title="ShareExt@Relax",Hub Premier 1
-http://fixtv.shop:888/yusman18/yusman1234/19471
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="Hub Premier 2" tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier2.png" group-title="ShareExt@Relax",Hub Premier 2
-http://fixtv.shop:888/yusman18/yusman1234/19473
-#EXTINF:-1 tvg-id="223" tvg-name="Hub Premier 3" tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier3.png" group-title="ShareExt@Relax",Hub Premier 3
-http://fixtv.shop:888/yusman18/yusman1234/19472
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/HnLRbbCc/bein-sports-1-qa-fr.png", BEINSPORTS 1 (HUB)
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065816&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/gkn1JysF/bein-sports-2-qa.png", BEINSPORTS 2 (HUB)
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065815&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/pdtSqwHV/bein-sports-3-qa.png", BEINSPORTS 3 (HUB)
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065814&extension=ts
+
+#EXTINF:-1 tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier1.png" group-title="ShareExt@Relax", HUB PREMIER 1
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065802&extension=ts
+
+#EXTINF:-1 tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier2.png" group-title="ShareExt@Relax", HUB PREMIER 2
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065803&extension=ts
+
+#EXTINF:-1 tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier3.png" group-title="ShareExt@Relax", HUB PREMIER 3
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065801&extension=ts
+
+#EXTINF:-1 tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier1.png" group-title="ShareExt@Relax", HUB PREMIER 4
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065800&extension=ts
+
+#EXTINF:-1 tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier1.png" group-title="ShareExt@Relax", HUB PREMIER 5
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065799&extension=ts
+
+#EXTINF:-1 tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier1.png" group-title="ShareExt@Relax", HUB PREMIER 6
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065798&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/MZrXNW9W/ezgif-57587cff1d53c25d.png", HUB SPORTS 1
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065811&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/N0J5tBQK/ezgif-5149382493d7d886.png", HUB SPORTS 2
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065812&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/gkKW6s10/ezgif-52ce9dabeb284bc2.png", HUB SPORTS 3
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065813&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/zfb6pF2T/ezgif-5a8217c4c2d57193.png", HUB SPORTS 4
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065808&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/SRyZ06dX/ezgif-5d8854dd37a68a14.png", HUB SPORTS 5
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065807&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/vTHv2Q8t/ezgif-5189125e52463a67.png", HUB SPORTS 6
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065813&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/26Cd3zWr/ezgif-5fd6ece09bfe4200.png", HUB SPORTS 7
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065812&extension=ts
 
 
 
