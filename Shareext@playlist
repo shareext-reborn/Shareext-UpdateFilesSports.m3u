@@ -151,6 +151,8 @@ http://fixtv.shop:888/live/yusman18/yusman1234/159.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://abestreaming.com/logo/fixtv/RCTI.png" group-title="ShareExt@Relax", ID: RCTI HD
 https://filex.me:8443/live/1234567/7654321/302297.ts
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://abestreaming.com/logo/fixtv/RCTI.png" group-title="ShareExt@Relax", (filex) RCTI HD
+http://filex.me:8080/live/5143626/6263415/302297.m3u8
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+
@@ -453,7 +455,8 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/KvbHDrcf/indosiar-id.png",INDOSIAR (flx)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://filex.me:8443/live/1234567/7654321/302264.ts
-
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/KvbHDrcf/indosiar-id.png",INDOSIAR (filex)
+http://filex.me:8080/live/5143626/6263415/302264.m3u8
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/mr5QpD3T/ezgif-1-5b5ec93378.png",MOJI (p)
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
 
