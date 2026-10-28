@@ -152,17 +152,110 @@ http://fixtv.shop:888/live/yusman18/yusman1234/159.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://abestreaming.com/logo/fixtv/RCTI.png" group-title="ShareExt@Relax", ID: RCTI HD
 https://filex.me:8443/live/1234567/7654321/302297.ts
 
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI (v+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1&type=drm
+##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.imgur.com/EpQCkcy.png", MYSPORTS (malay)
+https://cuwf8jayq1.tenbytecdn.com/live/mysport/abr/mysport_720p/chunks.m3u8?md5=bdP8cbWMDLGkyqjwqUJ6KQ&expires=1791228591
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.imgur.com/3g3oZ5a.png", TV OKEY (malay)
+https://cuwf8jayq1.tenbytecdn.com/live/tvokey/abr/tvokey_1080p/chunks.m3u8?md5=vSHmoPyovEsJyxo9uXgjfg&expires=1791226922
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png", SUKAN RTM (malay)
+https://0pnspbp7iq.tenbytecdn.com/live/sukanrtm/playlist.m3u8?md5=d37IcGPjis7vNQ_rIuF7yA&expires=1791181673
+#https://shorter.me/SUKAN
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", F1_SOLO SPORTS
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2102731&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", UFC _SOLO SPORTS
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2103450&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", WWE_SOLO SPORTS
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2103446&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", SHASHA SPORTS 1
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=1915163&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", SHASHA SPORTS 2
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=1915162&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", SHASHA SPORTS 3
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=1915161&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", SOLO SPORTS 1
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2101764&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", SOLO SPORTS 2
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2101597&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", SOLO SPORTS 3
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2101593&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", SOLO SPORTS 4
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2103460&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", SOLO SPORTS 5
+http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2103454&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW PREMIER 1 (line)
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382835&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW PREMIER 2 (line)
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382834&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW PREMIER 3 (line)
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382833&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW PREMIER 4 (line)
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382832&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW PREMIER 5 (line)
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382831&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW PREMIER 6 (line)
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382830&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW PREMIER 7 (line)
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382829&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW PREMIER 8 (line)
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382828&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 4K 1 (line)
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382836&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 1 (line)
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382843&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 2 (line)
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382842&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 3 (line)
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382841&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 4 (line)
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382840&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 5 (line)
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382839&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 6 (line)
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382838&extension=ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 7 (line)
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382837&extension=ts
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
@@ -351,9 +444,6 @@ http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34327
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/KvbHDrcf/indosiar-id.png",INDOSIAR (golden)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj3JPn4MUBmM1_VZHEOWgdWmxHXhsgKsiAMMiYYVXLHck
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR (ktp)
-##http://ktpremium.world:2095/live/oc100138/3826778900/73617.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
