@@ -14,7 +14,6 @@ https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=112
-##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=112&type=drm
 #EXTINF:-1 tvg-id="Sportstars.id" tvg-name="Sportstars 1" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars.jpg" group-title="ShareExt@Relax",SPORTSTARS (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
@@ -23,7 +22,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1010
-##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1010&type=drm
 #EXTINF:-1 group-logo="" group-title="ShareExt@Relax" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/710/112710-LOGO-m.png", SPORTSTAR 2 (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
@@ -34,14 +32,12 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1011
-##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1011&type=drm
 #EXTINF:-1 group-logo="" group-title="ShareExt@Relax" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-l.png", SPORTSSTAR 2• (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/f224a4945f2f48e892fb896645a9af6b/index.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=114
-##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=114&type=drm
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-logo="" group-title="ShareExt@Relax" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/817/138817-LOGO-m.png", SPORSTAR 3 (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
@@ -50,10 +46,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=205
-##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=205&type=drm
 #EXTINF:-1 tvg-id="Sportstars.4.id" tvg-name="Sportstars 4" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars4.jpg" group-title="ShareExt@Relax",SPORTSTARS 4 (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
@@ -64,7 +58,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=115
-##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=115&type=drm
 #EXTINF:-1 tvg-id="Soccer.Channel.id" tvg-name="Soccer Channel" tvg-logo="https://mimipipi22.github.io/logo/sports/soccer.jpg" group-title="ShareExt@Relax",SOCCER CHANNEL (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
@@ -75,7 +68,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=119
-##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=119&type=drm
 #EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv.jpg" group-title="ShareExt@Relax",SPOTV (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
@@ -86,7 +78,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=120
-##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=120&type=drm
 #EXTINF:-1 tvg-id="SPOTV.2.id" tvg-name="SPOTV2" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv2.jpg" group-title="ShareExt@Relax",SPOTV 2 (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
@@ -97,7 +88,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=122
-##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=122&type=drm
 #EXTINF:-1 tvg-id="beIN.Sports.1.id" tvg-name="beIN Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="ShareExt@Relax",BEIN SPORTS 1 (V+)
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
@@ -108,7 +98,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=123
-##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=123&type=drm
 #EXTINF:-1 tvg-id="beIN.Sports.2.id" tvg-name="beIN Sports 2" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports2.jpg" group-title="ShareExt@Relax",BEIN SPORTS 2 (V+)
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
@@ -119,7 +108,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=124
-##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=124&type=drm
 #EXTINF:-1 tvg-id="beIN.Sports.3.id" tvg-name="beIN Sports 3" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports3.jpg" group-title="ShareExt@Relax",BEIN SPORTS 3 (V+)
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
@@ -130,7 +118,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=125
-##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=125&type=drm
 #EXTINF:-1 tvg-id="beIN.SPORTS.4.id" tvg-name="beIN Sports 4" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports4.jpg" group-title="ShareExt@Relax",BEIN SPORTS 4 (V+)
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
@@ -141,7 +128,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=126
-##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=126&type=drm
 #EXTINF:-1 tvg-id="beIN.SPORTS.5.id" tvg-name="beIN Sports 5" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports5.jpg" group-title="ShareExt@Relax",BEIN SPORTS 5 (V+)
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
@@ -163,7 +149,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1&type=drm
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
@@ -178,38 +163,6 @@ https://cuwf8jayq1.tenbytecdn.com/live/tvokey/abr/tvokey_1080p/chunks.m3u8?md5=v
 https://0pnspbp7iq.tenbytecdn.com/live/sukanrtm/playlist.m3u8?md5=d37IcGPjis7vNQ_rIuF7yA&expires=1791181673
 #https://shorter.me/SUKAN
 
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", F1_SOLO SPORTS
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2102731&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", UFC _SOLO SPORTS
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2103450&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg", WWE_SOLO SPORTS
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2103446&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", SHASHA SPORTS 1
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=1915163&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", SHASHA SPORTS 2
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=1915162&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", SHASHA SPORTS 3
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=1915161&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", SOLO SPORTS 1
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2101764&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", SOLO SPORTS 2
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2101597&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", SOLO SPORTS 3
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2101593&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", SOLO SPORTS 4
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2103460&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", SOLO SPORTS 5
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2103454&extension=ts
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW PREMIER 1 (line)
 http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382835&extension=ts
@@ -259,64 +212,6 @@ http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382838&exten
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 7 (line)
 http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382837&extension=ts
 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=121
-##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=121&type=drm
-#EXTINF:-1 tvg-id="Fight.Sports.id" tvg-name="Fight Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/fightsports.jpg" group-title="ShareExt@Relax",FIGHT SPORTS (V+)
-
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/65030d16-c4fc-4c89-9b03-1b809797964f.jpg",Fight TV Premium (cbm)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/df2bdc3d-9bc6-43ca-a4e6-2002d47fdac1.jpg",Football TV (cbm)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/e5009dc7-2cae-4c8a-aa38-36bc224f7b8b.jpg",Golf Plus ID (cbm)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/71b87cc7-a431-4ceb-a819-21c84c07b295.jpg",PSJ TV (cbm)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8e4b7fc8-624a-4d99-ae7c-a75ed13ede9a.jpg",Speed TV (cbm)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f974ea07-54bf-4463-854a-fbbe51a70cc3.jpg",Sports TV (cbm)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/17f217c6-7009-45de-a54e-e7b15fa5f061.jpg",Xtrem Sports (cbm)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/9e14b89e-d803-454f-a35a-752163f30803.png",TVRI Sport (cbm)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", TH: TRUE SPORTS 1
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/157333
@@ -449,7 +344,7 @@ http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj3JPn4MUBmM1_VZHEOWgdWmxHXhsg
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KJpxxtL.jpeg" group-title="ShareExt@Relax",TVRI•Sport ▎Klik
+#EXTINF:-1 tvg-logo="https://i.jimgur.com/KJpxxtL.jpeg" group-title="ShareExt@Relax",TVRI•Sport ▎Klik
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/KvbHDrcf/indosiar-id.png",INDOSIAR (flx)
@@ -502,57 +397,6 @@ http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/146827
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/146826
 #EXTINF:-1 tvg-id="" tvg-name="UK: HUB SPORTS 3" tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier3.png" group-title="ShareExt@Relax",UK: HUB SPORTS 3
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/146825
-
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/HnLRbbCc/bein-sports-1-qa-fr.png", BEINSPORTS 1 (HUB)
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065816&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/gkn1JysF/bein-sports-2-qa.png", BEINSPORTS 2 (HUB)
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065815&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/pdtSqwHV/bein-sports-3-qa.png", BEINSPORTS 3 (HUB)
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065814&extension=ts
-
-#EXTINF:-1 tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier1.png" group-title="ShareExt@Relax", HUB PREMIER 1
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065802&extension=ts
-
-#EXTINF:-1 tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier2.png" group-title="ShareExt@Relax", HUB PREMIER 2
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065803&extension=ts
-
-#EXTINF:-1 tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier3.png" group-title="ShareExt@Relax", HUB PREMIER 3
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065801&extension=ts
-
-#EXTINF:-1 tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier1.png" group-title="ShareExt@Relax", HUB PREMIER 4
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065800&extension=ts
-
-#EXTINF:-1 tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier1.png" group-title="ShareExt@Relax", HUB PREMIER 5
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065799&extension=ts
-
-#EXTINF:-1 tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier1.png" group-title="ShareExt@Relax", HUB PREMIER 6
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065798&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/MZrXNW9W/ezgif-57587cff1d53c25d.png", HUB SPORTS 1
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065811&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/N0J5tBQK/ezgif-5149382493d7d886.png", HUB SPORTS 2
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065812&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/gkKW6s10/ezgif-52ce9dabeb284bc2.png", HUB SPORTS 3
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065813&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/zfb6pF2T/ezgif-5a8217c4c2d57193.png", HUB SPORTS 4
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065808&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/SRyZ06dX/ezgif-5d8854dd37a68a14.png", HUB SPORTS 5
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065807&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/vTHv2Q8t/ezgif-5189125e52463a67.png", HUB SPORTS 6
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065813&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/26Cd3zWr/ezgif-5fd6ece09bfe4200.png", HUB SPORTS 7
-http://line.vueott.com/play/live.php?mac=00:1A:79:83:28:29&stream=2065812&extension=ts
-
-
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/J7Z0hB2q/ezgif-84287ddb8ead5208.png",UFC_ (cloud)
 http://tv.cloudcdn.me/live.ts?channelId=132120&uid=10223&deviceMac=00:1A:79:07:07:43
