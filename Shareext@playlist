@@ -152,6 +152,8 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/830548.ts
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.imgur.com/EpQCkcy.png", MYSPORTS (malay)
 https://cuwf8jayq1.tenbytecdn.com/live/mysport/abr/mysport_720p/chunks.m3u8?md5=bdP8cbWMDLGkyqjwqUJ6KQ&expires=1791228591
@@ -338,9 +340,9 @@ http://31.43.191.125:8080/live/vip9781785523997/cf645f65dca1/34327.ts
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR_VIP.3
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34327
 
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/KvbHDrcf/indosiar-id.png",INDOSIAR (golden)
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/KvbHDrcf/indosiar-id.png",INDOSIAR (pix)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj3JPn4MUBmM1_VZHEOWgdWmxHXhsgKsiAMMiYYVXLHck
+http://pixtv.org/live/Test22/JmSSHFpNSX/1247933.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -354,6 +356,13 @@ https://filex.me:8443/live/1234567/7654321/302264.ts
 http://filex.me:8080/live/5143626/6263415/302264.m3u8
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/mr5QpD3T/ezgif-1-5b5ec93378.png",MOJI (p)
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-8ZOCCFoPNA9ms_SLoPbTfiivrl_7xyCxg&s" group-title="ShareExt@Relax", ANTV (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/584497.ts
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/mr5QpD3T/ezgif-1-5b5ec93378.png", MOJI TV (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1247938.ts
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://iili.io/JMp3kla.png" group-title="ShareExt@Relax", MNCTV (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1064641.ts
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/J7Z0hB2q/ezgif-84287ddb8ead5208.png",TW: ELTA SPORTs 1 FHD
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/158834
