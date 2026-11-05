@@ -2358,7 +2358,22 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing
 http://170.83.16.50/BAND_SPORTS/index.m3u8
 #EXTINF:-1 group-title="SHAREEXT@ BRAZILIAN || SPORTS" tvg-id="BandSports.br" tvg-name="Band Sports Alternativo 2" tvg-logo="https://i.imgur.com/EuPvzJe.png", Band Sports Alternativo 2
 http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
-
+#EXTINF:-1 group-title="SHAREEXT@ BRAZILIAN || SPORTS" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", BR: COMBATE
+http://31.43.191.125:8080/VIP0199169358094917/21693580949/4838
+#EXTINF:-1 group-title="SHAREEXT@ BRAZILIAN || SPORTS" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", BR: ESPN
+http://31.43.191.125:8080/VIP0199169358094917/21693580949/4854
+#EXTINF:-1 group-title="SHAREEXT@ BRAZILIAN || SPORTS" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", BR: ESPN 2
+http://31.43.191.125:8080/VIP0199169358094917/21693580949/4855
+#EXTINF:-1 group-title="SHAREEXT@ BRAZILIAN || SPORTS" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", BR: ESPN4
+http://31.43.191.125:8080/VIP0199169358094917/21693580949/4859
+#EXTINF:-1 group-title="SHAREEXT@ BRAZILIAN || SPORTS" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", BR: FOX SPORTS 2
+http://31.43.191.125:8080/VIP0199169358094917/21693580949/4860
+#EXTINF:-1 group-title="SHAREEXT@ BRAZILIAN || SPORTS" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", BR: SPORTV 1
+http://31.43.191.125:8080/VIP0199169358094917/21693580949/4902
+#EXTINF:-1 group-title="SHAREEXT@ BRAZILIAN || SPORTS" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", BR: SPORTV 2
+http://31.43.191.125:8080/VIP0199169358094917/21693580949/4903
+#EXTINF:-1 group-title="SHAREEXT@ BRAZILIAN || SPORTS" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", BR: SPORTV 3
+http://31.43.191.125:8080/VIP0199169358094917/21693580949/4904
 
 
 
@@ -2378,6 +2393,24 @@ http://23.237.104.106:8080/USA_ACCN/index.m3u8
 http://23.237.104.106:8080/USA_COOKING/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT@ USA || SPORTS",USA_YES_NETWORK 
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ USA || SPORTS" tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png", ESPN Premium HD
+http://181.78.197.59:8000/play/a09l/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ USA || SPORTS" tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png", ESPN HD
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ USA || SPORTS" tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png", ESPN 2 HD
+http://181.78.197.59:8000/play/a080/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ USA || SPORTS" tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png", ESPN 3 HD
+http://181.78.197.59:8000/play/a081/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ USA || SPORTS" tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png", ESPN  4 HD
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ USA || SPORTS" tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png", ESPN 5  HD
+http://181.78.197.59:8000/play/a074/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ USA || SPORTS" tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png", ESPN 6 HD
+http://181.78.197.59:8000/play/a08c/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ USA || SPORTS" tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png", ESPN 7 HD
+http://181.78.197.59:8000/play/a06a/index.m3u8
+
 
 
 
