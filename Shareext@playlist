@@ -2096,6 +2096,34 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&useri
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", DD SPORTS (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1090645.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", WILLOW CRICKET (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1090644.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", SONY SPORTS 1 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1090641.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", SONY SPORTS 2 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1090642.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", SONY SPORTS 3 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1090643.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", SONY SPORTS 5 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1090634.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", STARSPORTS SELECT 1 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1090639.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", STARSPORTS SELECT 2 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1090640.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", STARSPORTS 1 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1090636.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", STARSPORTS 2 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1090637.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", STARSPORTS 3 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1090638.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", ASTRO CRICKET (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1274760.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", IN: A SPORTS_FHD
 http://tv.cloudcdn.me:80/live.ts?channelId=12217&uid=15301&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", IN: T SPORTS HD
@@ -2169,6 +2197,36 @@ https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
 https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", BEINSPORTS 1 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1052432.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", BEINSPORTS 3 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1052426.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", BEINSPORTS 3 HD (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1052430.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", ASTRO ARENA (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1052376.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", ASTRO PLUS (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/955665.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", ASTRO SPORT PLUS (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1170925.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", ASTRO STADIUM (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1052374.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", ASTRO AURA (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1052380.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", ASTRO FOOTBALL (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1170917.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", ASTRO CITRA (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1052391.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", ASTRO SPOTV (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1052592.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", ASTRO SPOTV 2 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/957732.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", ASTRO TUTOR TV (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1170911.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", ASTRO PREMIER LEGUEA 2 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/955663.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", ASTRO ARENA HD
 http://tv.cloudcdn.me/live.ts?channelId=93729&uid=10223&deviceMac=00:1A:79:07:07:43
@@ -2687,6 +2745,61 @@ http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529401
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdDZGf1z/shareext-canadasports.jpg" group-title="SHAREEXT@ CANADA || SPORTS", CA: SPORTSNET ONE
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529407
 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", NZ: SKYSPORTS SELECT (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/808730.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", NZ: SKYSPORTS 1 (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/808752.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", NZ: SKYSPORTS 2 (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/490346.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", NZ: SKYSPORTS 3 (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/490347.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", NZ: SKYSPORTS 4 (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/490348.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", NZ: SKYSPORTS 5 (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/808726.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", NZ: SKYSPORTS 6 (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/808737.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", NZ: SKYSPORTS 7 (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/490350.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", NZ: SKYSPORTS 8 PREMIERLEAGUE (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/490351.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", NZ: SKYSPORTS 9 EXTRA (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/808740.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", AU: BEINSPORTS 1 UHD (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/78137.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", AU: BEINSPORTS 2 UHD (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/78138.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", AU: BEINSPORTS 3 UHD (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/78139.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", AU: ESPN HD (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/78154.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", AU: ESPN 2 FHD (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/78153.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", AU: FOX501 HD (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/83174.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", AU: FOX502 HD (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/83175.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", AU: FOX503 HD (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/78155.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", AU: FOX504 HD (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/83176.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", AU: FOX505 HD (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/78156.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", AU: FOX506 HD (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/78157.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", AU: FOX507 HD (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/83177.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", AU: SKY RACING 1 (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/43270.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", AU: SKY RACING 2 (pix)
+http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/43269.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2YspMjBW/shareext-logo-australia.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", AU: BEIN SPORTS 1
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529548
