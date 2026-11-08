@@ -131,10 +131,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #EXTINF:-1 tvg-id="beIN.SPORTS.5.id" tvg-name="beIN Sports 5" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports5.jpg" group-title="ShareExt@Relax",BEIN SPORTS 5 (V+)
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://abestreaming.com/logo/fixtv/RCTI.png" group-title="ShareExt@Relax",RCTI (fix)
-http://fixtv.shop:888/live/yusman18/yusman1234/159.m3u8
-
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://abestreaming.com/logo/fixtv/RCTI.png" group-title="ShareExt@Relax", ID: RCTI HD
 https://filex.me:8443/live/1234567/7654321/302297.ts
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://abestreaming.com/logo/fixtv/RCTI.png" group-title="ShareExt@Relax", (filex) RCTI HD
@@ -164,55 +160,6 @@ https://cuwf8jayq1.tenbytecdn.com/live/tvokey/abr/tvokey_1080p/chunks.m3u8?md5=v
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png", SUKAN RTM (malay)
 https://0pnspbp7iq.tenbytecdn.com/live/sukanrtm/playlist.m3u8?md5=d37IcGPjis7vNQ_rIuF7yA&expires=1791181673
 #https://shorter.me/SUKAN
-
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW PREMIER 1 (line)
-http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382835&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW PREMIER 2 (line)
-http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382834&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW PREMIER 3 (line)
-http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382833&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW PREMIER 4 (line)
-http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382832&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW PREMIER 5 (line)
-http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382831&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW PREMIER 6 (line)
-http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382830&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW PREMIER 7 (line)
-http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382829&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW PREMIER 8 (line)
-http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382828&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 4K 1 (line)
-http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382836&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 1 (line)
-http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382843&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 2 (line)
-http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382842&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 3 (line)
-http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382841&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 4 (line)
-http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382840&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 5 (line)
-http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382839&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 6 (line)
-http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382838&extension=ts
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 7 (line)
-http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=382837&extension=ts
 
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", TH: TRUE SPORTS 1
@@ -377,57 +324,57 @@ http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/146826
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/146825
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/J7Z0hB2q/ezgif-84287ddb8ead5208.png",UFC_ (cloud)
-http://tv.cloudcdn.me/live.ts?channelId=132120&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=132120&uid=15301&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 1 (cloud) 
-http://tv.cloudcdn.me/live.ts?channelId=129128&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=129128&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 2 (cloud)
-http://tv.cloudcdn.me/live.ts?channelId=129129&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=129129&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 3 (cloud) 
-http://tv.cloudcdn.me/live.ts?channelId=129130&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=129130&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 4 (cloud) 
-http://tv.cloudcdn.me/live.ts?channelId=129131&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=129131&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 5 (cloud) 
-http://tv.cloudcdn.me/live.ts?channelId=129132&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=129132&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 6 (cloud) 
-http://tv.cloudcdn.me/live.ts?channelId=129133&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=129133&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 7 (cloud) 
-http://tv.cloudcdn.me/live.ts?channelId=129134&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=129134&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-2-my.png",ASTRO PREMIER LEAGUE 2 (cloud)
-http://tv.cloudcdn.me/live.ts?channelId=93740&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=93740&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-grandstand-my.png",ASTRO GRANDSTAND (cloud)
-http://tv.cloudcdn.me/live.ts?channelId=93741&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=93741&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-grandstand-my.png",ASTRO GRANDSTAND (cloud)
-http://tv.cloudcdn.me/live.ts?channelId=93741&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=93741&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-badminton-my.png",ASTRO BADMINTON (cloud)
-http://tv.cloudcdn.me/live.ts?channelId=133049&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=133049&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-badminton-2-my.png",ASTRO BADMINTON 2 (cloud)
-http://tv.cloudcdn.me/live.ts?channelId=133050&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=133050&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/MH7LpPhG/astro-cricket-my.png",ASTRO CRICKET (cloud)
-http://tv.cloudcdn.me/live.ts?channelId=128494&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=128494&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-my.png",ASTRO ARENA (cloud)
-http://tv.cloudcdn.me/live.ts?channelId=93729&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=93729&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-2-my.png",ASTRO ARENA 2 (cloud)
-http://tv.cloudcdn.me/live.ts?channelId=93730&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=93730&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-bola-my.png",ASTRO ARENA BOLA (cloud)
-http://tv.cloudcdn.me/live.ts?channelId=133062&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=133062&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-bola-2-my.png",ASTRO ARENA BOLA 2 (cloud)
-http://tv.cloudcdn.me/live.ts?channelId=133063&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=133063&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png",BEIN SPORTS 1 (cloud)
-http://tv.cloudcdn.me/live.ts?channelId=93748&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=93748&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png",BEIN SPORTS 2 (cloud)
-http://tv.cloudcdn.me/live.ts?channelId=133114&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=133114&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png",(ARB) BEIN SPORTS 8
 http://z79ip.afcon.fan/live/shref-elbeshbehy2/qkWR9OAEYo/368418.m3u8
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/MTMgzDH1/fox-sports-mexico-us-mx.png",FOX SPORTS
@@ -470,25 +417,25 @@ http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 https://cache0.wonvt.st/live/0rz24u91w9fbp407eceyc/master.m3u8
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg", NBC SPORTS (cloud) (USA)
-http://tv.cloudcdn.me/live.ts?channelId=280&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=280&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png", SKYSPORTS FOOTBALL (cloud) (UK)
-http://tv.cloudcdn.me/live.ts?channelId=308&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=308&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png", SKYSPORTS PREMIER LEAGUE (cloud) (UK)
-http://tv.cloudcdn.me/live.ts?channelId=286&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=286&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg", TNT SPORTS 1 (cloud) (UK)
-http://tv.cloudcdn.me/live.ts?channelId=267&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=267&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg", TNT SPORTS 2 (cloud) (UK)
-http://tv.cloudcdn.me/live.ts?channelId=268&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=268&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg", TNT SPORTS 3 (cloud) (UK)
-http://tv.cloudcdn.me/live.ts?channelId=269&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=269&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg", TNT SPORTS 4 (cloud) (UK)
-http://tv.cloudcdn.me/live.ts?channelId=270&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=270&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg", ESPN (cloud) (NDL)
-http://tv.cloudcdn.me/live.ts?channelId=271&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=271&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg", EUROSPORTS 1 (cloud) (UK)
-http://tv.cloudcdn.me/live.ts?channelId=272&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=272&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg", EUROSPORTS 2 (cloud) (UK)
-http://tv.cloudcdn.me/live.ts?channelId=273&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=273&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-id="" tvg-name="RS SPORTS" tvg-logo="https://i.postimg.cc/Ghfj3J9t/rs-sport01.png", RS SPORTS
 https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
@@ -513,31 +460,31 @@ https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg", IR| PERSIANA SPORTS
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/742332
 
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png",BEIN SPORTS 1 (afcom)
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png",BEIN SPORTS 1•
 http://z79ip.afcon.fan/live/shref-elbeshbehy2/qkWR9OAEYo/368411.m3u8
 
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png",BEIN SPORTS 2 (afcom)
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png",BEIN SPORTS 2•
 http://z79ip.afcon.fan/live/shref-elbeshbehy2/qkWR9OAEYo/368410.m3u8
 
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png",BEIN SPORTS 3 (afcom)
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png",BEIN SPORTS 3•
 http://z79ip.afcon.fan/live/shref-elbeshbehy2/qkWR9OAEYo/368409.m3u8
 
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png",BEIN SPORTS 4 (afcom)
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png",BEIN SPORTS 4•
 http://z79ip.afcon.fan/live/shref-elbeshbehy2/qkWR9OAEYo/368408.m3u8
 
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png",BEIN SPORTS 5 (afcom)
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png",BEIN SPORTS 5•
 http://z79ip.afcon.fan/live/shref-elbeshbehy2/qkWR9OAEYo/368407.m3u8
 
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png",BEIN SPORTS 6 (afcom)
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png",BEIN SPORTS 6•
 http://z79ip.afcon.fan/live/shref-elbeshbehy2/qkWR9OAEYo/368390.m3u8
 
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png",BEIN SPORTS 7 (afcom)
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png",BEIN SPORTS 7•
 http://z79ip.afcon.fan/live/shref-elbeshbehy2/qkWR9OAEYo/368419.m3u8 
 
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png",BEIN SPORTS 8 (afcom)
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png",BEIN SPORTS 8•
 http://z79ip.afcon.fan/live/shref-elbeshbehy2/qkWR9OAEYo/368418.m3u8
 
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png",BEIN SPORTS 9 (afcom)
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png",BEIN SPORTS 9•
 http://z79ip.afcon.fan/live/shref-elbeshbehy2/qkWR9OAEYo/368417.m3u8
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/wxwJhrzN/ezgif-8c4bb8cf3abef1ee.png",BOSI GOLF
@@ -2017,7 +1964,7 @@ http://aflaxtv.xyz:8080/live/F33848/cbd9779b/295289.ts
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
 #EXTINF:-1 tvg-id="beIN.Sports.2.id" tvg-name="beIN Sports 2" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports2.jpg" group-title="SHAREEXT@ INDONESIA鈥PORTS",BEIN SPORTS 2 
-http://tv.cloudcdn.me/live.ts?channelId=133114&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=133114&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -2164,43 +2111,43 @@ http://pixtv.org/live/Test22/JmSSHFpNSX/1090638.ts
 http://pixtv.org/live/Test22/JmSSHFpNSX/1274760.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", IN: A SPORTS_FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=12217&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=12217&uid=15301&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", IN: T SPORTS HD
-http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=15301&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", IN: LIVE KABADDI
-http://tv.cloudcdn.me:80/live.ts?channelId=276&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=276&uid=15301&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", FAN CODE SPORTS
-http://tv.cloudcdn.me:80/live.ts?channelId=78845&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=78845&uid=15301&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", SONY SPORTS TEN 1
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+http://tv.cloudcdn.me/live.ts?channelId=289&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", SONY SPORTS TEN 2
-http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+http://tv.cloudcdn.me/live.ts?channelId=290&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", SPORTS TEN 3
-http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", SPORTS TEN 4
-http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", SONY TEN 5
-http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=15301&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", SkySports Premier Liguea
-http://tv.cloudcdn.me:80/live.ts?channelId=286&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=286&uid=15301&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", WILLOW
-http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=15301&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", Willow cricket
-http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=15301&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", TENNIS
-http://tv.cloudcdn.me:80/live.ts?channelId=296&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=296&uid=15301&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", StarSports 1 _Tamil
-http://tv.cloudcdn.me:80/live.ts?channelId=288&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=288&uid=15301&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", StarSports 1_indie
-http://tv.cloudcdn.me:80/live.ts?channelId=293&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=293&uid=15301&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", StarSports 2_indie
-http://tv.cloudcdn.me:80/live.ts?channelId=298&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=298&uid=15301&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", StarSports Select 1 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=15301&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", StarSports Select 2 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=15301&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports", TEN SPORTS
-http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=15301&deviceMac=00:1A:79:0E:F8:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=15301&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 
 
 
@@ -2268,37 +2215,37 @@ http://pixtv.org/live/Test22/JmSSHFpNSX/1170911.ts
 http://pixtv.org/live/Test22/JmSSHFpNSX/955663.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", ASTRO ARENA HD
-http://tv.cloudcdn.me/live.ts?channelId=93729&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=93729&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", ASTRO ARENA 2 HD
-http://tv.cloudcdn.me/live.ts?channelId=93730&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=93730&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", ASTRO BADMINTON
-http://tv.cloudcdn.me/live.ts?channelId=133049&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=133049&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", ASTRO BADMINTON 2
-http://tv.cloudcdn.me/live.ts?channelId=133050&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=133050&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", ARENA BOLA
-http://tv.cloudcdn.me/live.ts?channelId=133062&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=133062&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", ARENA BOLA 2
-http://tv.cloudcdn.me/live.ts?channelId=133063&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=133063&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", ASTRO STADIUM
-http://tv.cloudcdn.me/live.ts?channelId=132148&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=132148&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", SPOTV
-http://tv.cloudcdn.me/live.ts?channelId=133045&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=133045&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", OKEY
-http://tv.cloudcdn.me/live.ts?channelId=93792&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=93792&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", SUKAN RTM
-http://tv.cloudcdn.me/live.ts?channelId=107253&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=107253&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", BEINSPORTS 1
-http://tv.cloudcdn.me/live.ts?channelId=93748&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=93748&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", BEINSPORTS 2
-http://tv.cloudcdn.me/live.ts?channelId=133114&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=133114&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", Astro SPORTS PLUS
-http://tv.cloudcdn.me/live.ts?channelId=133122&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=133122&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", Astro PREMIER LEGUEA 2
-http://tv.cloudcdn.me/live.ts?channelId=93740&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=93740&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", Astro GRANDSTAND
-http://tv.cloudcdn.me/live.ts?channelId=93741&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=93741&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", ASTRO CRICKET
-http://tv.cloudcdn.me/live.ts?channelId=128494&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me/live.ts?channelId=128494&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", ASTRO FOOTBALL
 http://aflaxtv.xyz:8080/live/F33848/cbd9779b/157558.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", BEINSPORTS EXTRA
@@ -2694,22 +2641,8 @@ http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/195419
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ NEDERLAND || SPORTS", NL| ZIGGO SPORT DOCU HD
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/494538
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ NEDERLAND || SPORTS", NL| ZIGGO SPORT EXTRA HD
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/494536
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ NEDERLAND || SPORTS", NL| ZIGGO SPORT GOLF HD
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/494535
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ NEDERLAND || SPORTS", NL| ZIGGO SPORT HD
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/744589
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ NEDERLAND || SPORTS", NL| ZIGGO SPORT RACING HD
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/494534
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ NEDERLAND || SPORTS", NL| ZIGGO SPORT SELECT HD
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/494533
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ NEDERLAND || SPORTS", NL| ZIGGO SPORT TENNIS HD
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/494537
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ NEDERLAND || SPORTS", NL| ZIGGO SPORT VOETBAL HD
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/494532
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ NEDERLAND || SPORTS", NL| ESPN 01 [EVENT ONLY]
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/744542
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ NEDERLAND || SPORTS", NL| ESPN 02 [EVENT ONLY]
@@ -2732,8 +2665,6 @@ http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/744592
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/744591
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ NEDERLAND || SPORTS", NL| EXTREME SPORTS CHANNEL HD
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/744590
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ NEDERLAND || SPORTS", NL| F1 TV HD
-http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/494498
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ NEDERLAND || SPORTS", NL| HORSE & COUNTRY HD
 http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/744601
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT@ NEDERLAND || SPORTS", NL| ZIGGO SPORT 1 FHD
