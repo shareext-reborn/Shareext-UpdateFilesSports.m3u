@@ -405,11 +405,11 @@ http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34778.ts
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg", HUB•SPORT 2 (SGP)
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34777.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: HUB SPORTS 1" tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier1.png" group-title="ShareExt@Relax",UK: HUB SPORTS 1
+#EXTINF:-1 tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier1.png" group-title="ShareExt@Relax",UK: HUB SPORTS 1
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/146827
-#EXTINF:-1 tvg-id="" tvg-name="UK: HUB SPORTS 2" tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier2.png" group-title="ShareExt@Relax",UK: HUB SPORTS 2
+#EXTINF:-1 tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier2.png" group-title="ShareExt@Relax",UK: HUB SPORTS 2
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/146826
-#EXTINF:-1 tvg-id="" tvg-name="UK: HUB SPORTS 3" tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier3.png" group-title="ShareExt@Relax",UK: HUB SPORTS 3
+#EXTINF:-1 tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier3.png" group-title="ShareExt@Relax",UK: HUB SPORTS 3
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/146825
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/J7Z0hB2q/ezgif-84287ddb8ead5208.png",UFC_ (cloud)
@@ -461,6 +461,39 @@ http://tv.cloudcdn.me/live.ts?channelId=133063&uid=10223&deviceSn=84F4AB37DF6E6&
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png",BEIN SPORTS 1 (cloud)
 http://tv.cloudcdn.me/live.ts?channelId=93748&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGszyVJ7/ezgif-51f1d228973424c5.png" group-title="ShareExt@Relax", HUB PREMIER 1 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/324806.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3R6wV1YP/ezgif-59db78b6e31298f0.png" group-title="ShareExt@Relax", HUB PREMIER 2 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/324807.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkHYhVjR/ezgif-5436d8b5aa443574.png" group-title="ShareExt@Relax", HUB PREMIER 3 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/324808.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W12ZPsBP/ezgif-5c91f29f67e41056.png" group-title="ShareExt@Relax", HUB PREMIER 4 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/324809.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xLYkVvt/ezgif-5420cd2a35aedeeb.png" group-title="ShareExt@Relax", HUB PREMIER 5 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/324810.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdR2DZZF/ezgif-5bb19f4e9cc1aa33.png" group-title="ShareExt@Relax", HUB PREMIER 6 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/324811.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yY661W8j/ezgif-5e11ac99172a013e.png" group-title="ShareExt@Relax", HUB PREMIER 7 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/324812.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7wVkFDv/ezgif-5cb535d3cb8b690e.png" group-title="ShareExt@Relax", HUB PREMIER 8 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/324813.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax", HUB PREMIER 9 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/324814.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax", HUB PREMIER 10 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/324815.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax", HUB PREMIER 11 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/324816.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZrXNW9W/ezgif-57587cff1d53c25d.png" group-title="ShareExt@Relax", HUB SPORTS 1 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1090647.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0J5tBQK/ezgif-5149382493d7d886.png" group-title="ShareExt@Relax", HUB SPORTS 2 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1090648.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkKW6s10/ezgif-52ce9dabeb284bc2.png" group-title="ShareExt@Relax", HUB SPORTS 3 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1090649.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfb6pF2T/ezgif-5a8217c4c2d57193.png" group-title="ShareExt@Relax", HUB SPORTS 4 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1090650.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRyZ06dX/ezgif-5d8854dd37a68a14.png" group-title="ShareExt@Relax", HUB SPORTS 5 (pix)
+http://pixtv.org/live/Test22/JmSSHFpNSX/1090651.ts
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png",BEIN SPORTS 2 (cloud)
 http://tv.cloudcdn.me/live.ts?channelId=133114&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
@@ -3027,7 +3060,14 @@ http://dns1.hsk8f.cyou:80/YBqpkhgz/ADA3BAD8/529407
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", AT: Sky Sport Austria 1 HD
+http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/26141
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", AT: Sky Sport Austria 2 HD
+http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/72616
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", AT: Sky Sport Austria 3 HD
+http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/72617
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", AT: Sky Sport Austria 4 HD
+http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/72618
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ NZ & AUS || SPORTS", NZ: SKYSPORTS SELECT (pix)
 http://pixtv.org/live/MAGS47YK5V/MAGU8YQHDD/808730.ts
