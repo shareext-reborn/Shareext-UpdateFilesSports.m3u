@@ -479,6 +479,23 @@ http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/146826
 #EXTINF:-1 tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier3.png" group-title="ShareExt@Relax",UK: HUB SPORTS 3
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/146825
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax", HUB PREMIER 1 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032529&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax", HUB PREMIER 2 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032528&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax", HUB PREMIER 3 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032527&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax", HUB PREMIER 4 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032526&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax", HUB PREMIER 5 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032525&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax", HUB PREMIER 6 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032524&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax", HUB PREMIER 7 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032523&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax", HUB PREMIER 8 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032522&extension=ts
+
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/J7Z0hB2q/ezgif-84287ddb8ead5208.png",UFC_ (cloud)
 http://tv.cloudcdn.me/live.ts?channelId=132120&uid=15301&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 1 (cloud) 
@@ -495,6 +512,21 @@ http://tv.cloudcdn.me/live.ts?channelId=129132&uid=10223&deviceSn=84F4AB37DF6E6&
 http://tv.cloudcdn.me/live.ts?channelId=129133&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 7 (cloud) 
 http://tv.cloudcdn.me/live.ts?channelId=129134&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NOW PREMIER 1 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032487&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NOW PREMIER 2 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032486&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NOW PREMIER 3 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032485&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NOW PREMIER 4 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032484&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NOW PREMIER 5 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032483&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NOW PREMIER 6 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032482&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="ShareExt@Relax", NOW PREMIER 7 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032481&extension=ts
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-2-my.png",ASTRO PREMIER LEAGUE 2 (cloud)
 http://tv.cloudcdn.me/live.ts?channelId=93740&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
