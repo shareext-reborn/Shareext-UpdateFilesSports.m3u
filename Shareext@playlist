@@ -1203,6 +1203,35 @@ http://line.darktv-pro.cc/play/live.php?mac=A0:BB:3E:01:66:D9&stream=425314&exte
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@ ISRAEL || SPORTS",EUROSPORTS 1 (ISL)
+http://t365.in//0976265177/2034078588/33756
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@ ISRAEL || SPORTS",EUROSPORTS 2 (ISL)
+http://t365.in//0976265177/2034078588/33757
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@ ISRAEL || SPORTS",YES SPORTS 1 (ISL)
+http://t365.in//0976265177/2034078588/33748
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@ ISRAEL || SPORTS",YES SPORTS 2 (ISL)
+http://t365.in//0976265177/2034078588/33749
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@ ISRAEL || SPORTS",YES SPORTS 3 (ISL)
+http://t365.in//0976265177/2034078588/33750
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@ ISRAEL || SPORTS",YES SPORTS 4 (ISL)
+http://t365.in//0976265177/2034078588/33751
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@ ISRAEL || SPORTS",YES SPORTS 5 (ISL)
+http://t365.in//0976265177/2034078588/33752
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@ ISRAEL || SPORTS",YES SPORTS 5 STARS (ISL)
+http://t365.in//0976265177/2034078588/33753
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@ ISRAEL || SPORTS",YES SPORTS 5 PLUS (ISL)
+http://t365.in//0976265177/2034078588/33754
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="SHAREEXT@ ISRAEL || SPORTS",YES SPORTS 5 LIVE (ISL)
+http://t365.in//0976265177/2034078588/33755
+
+
+
+
+
+
+
+
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
